@@ -1,0 +1,233 @@
+:root {
+  --ink: #14232A;
+  --ink-soft: #3E5158;
+  --bg: #EEF3EF;
+  --card: #FBFBF8;
+  --card-border: #D8E0D9;
+  --coral: #E2583E;
+  --sage: #7C9885;
+  --sage-bg: #E4ECE5;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .listing-card { transition: transform 0.15s ease, box-shadow 0.15s ease; }
+}
+
+.masthead {
+  background: var(--ink);
+  color: var(--bg);
+  padding: 48px 24px 40px;
+}
+
+.masthead-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+.eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--coral);
+  margin: 0 0 12px;
+}
+
+h1 {
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  font-size: clamp(32px, 5vw, 48px);
+  margin: 0 0 12px;
+}
+
+.subtitle {
+  font-size: 16px;
+  color: #C8D3D0;
+  margin: 0 0 16px;
+  max-width: 560px;
+}
+
+.updated-line {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: #8FA39D;
+  margin: 0;
+}
+
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 32px 24px 80px;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+#search {
+  flex: 1;
+  min-width: 220px;
+  padding: 12px 16px;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  background: var(--card);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  color: var(--ink);
+}
+
+#search:focus-visible {
+  outline: 2px solid var(--coral);
+  outline-offset: 1px;
+}
+
+.relevant-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--ink-soft);
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.relevant-toggle input {
+  accent-color: var(--coral);
+  width: 16px;
+  height: 16px;
+}
+
+.result-count {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: var(--ink-soft);
+  margin: 16px 0 20px;
+}
+
+.listings {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.listing-card {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  padding: 18px 20px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 6px 16px;
+  align-items: start;
+}
+
+.listing-card:hover,
+.listing-card:focus-within {
+  box-shadow: 0 4px 14px rgba(20, 35, 42, 0.08);
+  transform: translateY(-1px);
+}
+
+.listing-card.is-relevant {
+  border-left: 3px solid var(--coral);
+}
+
+.listing-title {
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 0;
+}
+
+.listing-title a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.listing-title a:hover,
+.listing-title a:focus-visible {
+  color: var(--coral);
+  text-decoration: underline;
+}
+
+.listing-meta {
+  grid-column: 1 / 2;
+  font-size: 14px;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+.listing-meta .company {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.freshness {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  color: var(--sage);
+  background: var(--sage-bg);
+  border-radius: 999px;
+  padding: 4px 10px;
+  white-space: nowrap;
+  align-self: start;
+  justify-self: end;
+}
+
+.tags {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+.tag {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-soft);
+  background: var(--bg);
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  padding: 3px 8px;
+}
+
+.empty-state {
+  font-size: 14px;
+  color: var(--ink-soft);
+  text-align: center;
+  padding: 48px 0;
+}
+
+footer {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 24px 48px;
+  font-size: 12px;
+  color: var(--ink-soft);
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+@media (max-width: 520px) {
+  .listing-card {
+    grid-template-columns: 1fr;
+  }
+  .freshness {
+    justify-self: start;
+  }
+}

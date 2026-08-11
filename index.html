@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jayden's Internship Log</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <p class="eyebrow">Personal tracking sheet &mdash; auto-updated</p>
+    <h1>Internship Log</h1>
+    <p class="subtitle">Bioengineering &amp; biotech internship postings, pulled straight from company job boards.</p>
+    <p class="updated-line" id="updated-line">Loading last update time&hellip;</p>
+  </div>
+</header>
+
+<main>
+  <div class="toolbar">
+    <input type="text" id="search" placeholder="Search company, role, or location&hellip;" autocomplete="off">
+    <label class="relevant-toggle">
+      <input type="checkbox" id="relevant-only">
+      Relevant to my skills only
+    </label>
+  </div>
+
+  <p class="result-count" id="result-count"></p>
+
+  <div id="listings" class="listings"></div>
+  <p class="empty-state" id="empty-state" hidden>No postings match right now &mdash; check back after the next scrape, or widen your search.</p>
+</main>
+
+<footer>
+  <p>Sources refresh automatically every 6 hours via GitHub Actions. Built for Jayden &mdash; Bioengineering, UIUC.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
