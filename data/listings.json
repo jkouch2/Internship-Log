@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T22:27:06.470951+00:00",
-  "count": 4,
+  "generated_at": "2026-08-12T22:38:17.252089+00:00",
+  "count": 25,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -46,6 +46,216 @@
       "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026",
       "posted_at": "2026-07-08T13:36:36-04:00",
       "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Johannesburg-South-Africa/Finance-Intern_R567381",
+      "company": "Stryker",
+      "title": "Finance Intern",
+      "location": "Johannesburg, South Africa",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Johannesburg-South-Africa/Finance-Intern_R567381",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Istanbul-Trkiye/Logistics-Intern_R567633",
+      "company": "Stryker",
+      "title": "Logistics Intern",
+      "location": "Istanbul, T\u00fcrkiye",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Istanbul-Trkiye/Logistics-Intern_R567633",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Suzhou-China/Finance-Intern_R570147",
+      "company": "Stryker",
+      "title": "Finance Intern",
+      "location": "Suzhou, China",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Suzhou-China/Finance-Intern_R570147",
+      "posted_at": "Posted 13 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/HR-Administration-Intern_R568710",
+      "company": "Stryker",
+      "title": "HR Administration Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/HR-Administration-Intern_R568710",
+      "posted_at": "Posted 19 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Intern--Customer-Services_R568969",
+      "company": "Stryker",
+      "title": "Intern, Customer Services",
+      "location": "Roma, Rome Via Alexandre Gustave Eiffel 13/15",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Intern--Customer-Services_R568969",
+      "posted_at": "Posted 16 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R568244",
+      "company": "Stryker",
+      "title": "Intern, Customer Services",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R568244",
+      "posted_at": "Posted 12 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern--Human-Resources_R569417",
+      "company": "Stryker",
+      "title": "Intern, Human Resources",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Human-Resources_R569417",
+      "posted_at": "Posted 8 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Amsterdam-Netherlands/Human-Resources-Intern_R570584",
+      "company": "Stryker",
+      "title": "Human Resources Intern",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/Human-Resources-Intern_R570584",
+      "posted_at": "Posted 2 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R570259-1",
+      "company": "Stryker",
+      "title": "Intern, Customer Services",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R570259-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
+      "company": "Stryker",
+      "title": "HR Intern (Leaves Administration)",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Seoul-Korea/Intern--Sales-and-Marketing_R568954",
+      "company": "Stryker",
+      "title": "Intern, Sales and Marketing",
+      "location": "Seoul, Korea",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Seoul-Korea/Intern--Sales-and-Marketing_R568954",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Sao-Paulo-Brazil/HR-Intern-LatAm--Hybrid-_R567339-1",
+      "company": "Stryker",
+      "title": "HR Intern LatAm (Hybrid)",
+      "location": "Sao Paulo, Brazil",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Sao-Paulo-Brazil/HR-Intern-LatAm--Hybrid-_R567339-1",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Sao-Paulo-Brazil/Sales-Operations-Intern--Hybrid-_R569799",
+      "company": "Stryker",
+      "title": "Sales Operations Intern (Hybrid)",
+      "location": "Sao Paulo, Brazil",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Sao-Paulo-Brazil/Sales-Operations-Intern--Hybrid-_R569799",
+      "posted_at": "Posted 19 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
+      "company": "Stryker",
+      "title": "Intern Tenders, Contracts & Pricing",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
+      "posted_at": "Posted 7 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Master-Data-Management-Intern_R569483-1",
+      "company": "Stryker",
+      "title": "Master Data Management Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569483-1",
+      "posted_at": "Posted 5 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
+      "company": "Stryker",
+      "title": "HR Operations Intern, Benefits Admin",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Sao-Paulo-Brazil/LatAm-Marketing-Intern---Instruments--Hybrid-_R568354",
+      "company": "Stryker",
+      "title": "LatAm Marketing Intern \u2013 Instruments (Hybrid)",
+      "location": "Sao Paulo, Brazil",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Sao-Paulo-Brazil/LatAm-Marketing-Intern---Instruments--Hybrid-_R568354",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Discover-Internship-R2R_R569838",
+      "company": "Stryker",
+      "title": "Discover Internship R2R",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Discover-Internship-R2R_R569838",
+      "posted_at": "Posted 8 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Discover-Internship--Finance--I2P_R569223-1",
+      "company": "Stryker",
+      "title": "Discover Internship, Finance, I2P",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Discover-Internship--Finance--I2P_R569223-1",
+      "posted_at": "Posted 9 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/Portugal---Lisbon/Internship-Program---Technology_R-245174",
+      "company": "Amgen",
+      "title": "Internship Program - Technology",
+      "location": "Portugal - Lisbon",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Technology_R-245174",
+      "posted_at": "Posted 21 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
+      "company": "Amgen",
+      "title": "Internship Program \u2013 Business & Operations",
+      "location": "Portugal - Lisbon",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
+      "posted_at": "Posted 27 Days Ago",
+      "source": "workday",
       "tags": []
     }
   ]
