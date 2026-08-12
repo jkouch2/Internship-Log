@@ -5,33 +5,54 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Jayden's Internship Log</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<header class="masthead">
-  <div class="masthead-inner">
-    <p class="eyebrow">Personal tracking sheet &mdash; auto-updated</p>
-    <h1>Internship Log</h1>
-    <p class="subtitle">Bioengineering &amp; biotech internship postings, pulled straight from company job boards.</p>
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark">JL</span>
+      <span class="brand-name">Internship Log</span>
+    </div>
     <p class="updated-line" id="updated-line">Loading last update time&hellip;</p>
   </div>
 </header>
 
+<section class="hero">
+  <div class="hero-inner">
+    <h1>Apply before everyone else does.</h1>
+    <p class="hero-sub">Bioengineering &amp; biotech internships, pulled directly from company job boards and refreshed automatically every 6 hours.</p>
+  </div>
+</section>
+
 <main>
-  <div class="toolbar">
+  <div class="controls-bar">
     <input type="text" id="search" placeholder="Search company, role, or location&hellip;" autocomplete="off">
-    <label class="relevant-toggle">
-      <input type="checkbox" id="relevant-only">
-      Relevant to my skills only
-    </label>
+    <div class="toggle-group">
+      <button class="toggle-chip" id="fresh-toggle" type="button" aria-pressed="false">Last 24 Hrs</button>
+      <button class="toggle-chip" id="relevant-toggle" type="button" aria-pressed="false">Relevant to my skills</button>
+    </div>
   </div>
 
   <p class="result-count" id="result-count"></p>
 
-  <div id="listings" class="listings"></div>
-  <p class="empty-state" id="empty-state" hidden>No postings match right now &mdash; check back after the next scrape, or widen your search.</p>
+  <div class="table-wrap">
+    <table class="listings-table">
+      <thead>
+        <tr>
+          <th class="col-company">Company</th>
+          <th class="col-role">Role</th>
+          <th class="col-location">Location</th>
+          <th class="col-posted">Posted</th>
+          <th class="col-match">Match</th>
+        </tr>
+      </thead>
+      <tbody id="listings-body"></tbody>
+    </table>
+    <p class="empty-state" id="empty-state" hidden>No postings match right now &mdash; check back after the next scrape, or widen your search.</p>
+  </div>
 </main>
 
 <footer>
