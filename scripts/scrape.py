@@ -2,14 +2,15 @@
 """
 Internship scraper for Jayden's tracker.
 
-Pulls live listings from public Greenhouse and Lever job-board APIs for a
-curated list of bioengineering / biotech / medtech / hardware companies,
+Pulls live listings from public Greenhouse, Lever, and Workday job-board
+APIs for a curated list of bioengineering / biotech / medtech companies,
 filters for internship roles, tags them by relevance to Jayden's resume
 skills, and writes the result to data/listings.json.
 
 This is designed to run on a schedule via GitHub Actions (see
-.github/workflows/update.yml). No API keys required - these are public,
-unauthenticated endpoints companies use to power their own careers pages.
+.github/workflows/update.yml). No API keys required - these are the same
+public, unauthenticated endpoints each company's own careers page calls
+in the browser.
 """
 
 import json
@@ -25,11 +26,10 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = ROOT / "data" / "listings.json"
 
 # ---------------------------------------------------------------------------
-# Company sources. Add/remove tokens freely - a wrong or dead token is just
-# skipped, it won't break the run.
-#
-# Greenhouse token = the slug in boards.greenhouse.io/<TOKEN>
-# Lever token       = the slug in jobs.lever.co/<TOKEN>
+# Company sources. Every token below has been manually verified against the
+# company's live job board. Add/remove freely - a wrong or dead token is
+# just skipped, it won't break the run. See README.md for how to verify a
+# new one before adding it.
 # ---------------------------------------------------------------------------
 GREENHOUSE_COMPANIES = [
     "ginkgobioworks",
@@ -37,32 +37,23 @@ GREENHOUSE_COMPANIES = [
     "benchling",
     "recursionpharmaceuticals",
     "generatebiomedicines",
-    "insitro",
-    "asimov",
-    "arcinstitute",
-    "xaira",
-    "stryker",
-    "bostonscientific",
-    "edwards",
-    "dexcom",
-    "illumina",
-    "modernatx",
-    "regeneron",
-    "vertexpharmaceuticals",
-    "biogen",
-    "amgen",
-    "gilead",
-    "vir",
-    "intuitivesurgical",
-    "abbott",
+    "xairatherapeutics",
+    "evolutionaryscale",
 ]
 
 LEVER_COMPANIES = [
-    "notablehealth",
-    "formlabs",
-    "desktopmetal",
-    "carbon3d",
-    "resmed",
+    # None verified yet - add tokens here as you find them (check a
+    # company's careers page for a "jobs.lever.co/COMPANY" URL).
+]
+
+# Workday-hosted companies. Unlike Greenhouse/Lever, Workday doesn't have
+# one shared board format - each company has its own tenant + site name.
+# Format: (tenant subdomain, wd cluster e.g. "wd1"/"wd5", site path segment)
+WORKDAY_COMPANIES = [
+    ("stryker", "wd1", "StrykerCareers"),
+    ("illumina", "wd1", "illumina-universityrecruiting"),
+    ("regeneron", "wd1", "Careers"),
+    ("amgen", "wd1", "Careers"),
 ]
 
 # Keywords pulled from Jayden's resume/major - used only to TAG relevance,
@@ -76,13 +67,17 @@ RESUME_KEYWORDS = [
 
 INTERN_PATTERN = re.compile(r"\bintern(ship)?\b", re.IGNORECASE)
 
-HEADERS = {"User-Agent": "internship-tracker/1.0 (personal project)"}
+HEADERS = {
+    "User-Agent": "internship-tracker/1.0 (personal project)",
+    "Content-Type": "application/json",
+}
 
 
-def fetch_json(url, retries=2, delay=1.5):
+def fetch_json(url, retries=2, delay=1.5, method="GET", body=None):
     for attempt in range(retries + 1):
         try:
-            req = Request(url, headers=HEADERS)
+            data_bytes = json.dumps(body).encode("utf-8") if body is not None else None
+            req = Request(url, headers=HEADERS, data=data_bytes, method=method)
             with urlopen(req, timeout=20) as resp:
                 return json.loads(resp.read().decode("utf-8"))
         except (HTTPError, URLError, TimeoutError, json.JSONDecodeError) as e:
@@ -149,6 +144,37 @@ def scrape_lever(token):
     return results
 
 
+def scrape_workday(tenant, wd, site):
+    url = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
+    body = {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": "intern"}
+    data = fetch_json(url, method="POST", body=body)
+    if not data or "jobPostings" not in data:
+        return []
+
+    results = []
+    for job in data["jobPostings"]:
+        title = job.get("title", "")
+        if not INTERN_PATTERN.search(title):
+            continue
+        location = job.get("locationsText", "Unspecified")
+        external_path = job.get("externalPath", "")
+        full_url = f"https://{tenant}.{wd}.myworkdayjobs.com{external_path}"
+        # Workday only gives a relative label like "Posted 3 Days Ago",
+        # not an exact timestamp - stored as-is, the site displays it verbatim.
+        posted_label = job.get("postedOn", "")
+        results.append({
+            "id": f"workday-{tenant}-{external_path}",
+            "company": tenant,
+            "title": title,
+            "location": location,
+            "url": full_url,
+            "posted_at": posted_label,
+            "source": "workday",
+            "tags": tag_relevance(title, location),
+        })
+    return results
+
+
 def normalize_company_name(token):
     # Light cleanup so raw slugs look presentable in the UI.
     return token.replace("-", " ").replace("_", " ").title()
@@ -169,14 +195,15 @@ def main():
         print(f"  {token}: {len(jobs)} internship postings")
         all_listings.extend(jobs)
 
+    print("Scraping Workday boards...")
+    for tenant, wd, site in WORKDAY_COMPANIES:
+        jobs = scrape_workday(tenant, wd, site)
+        print(f"  {tenant}: {len(jobs)} internship postings")
+        all_listings.extend(jobs)
+
     for listing in all_listings:
         listing["company"] = normalize_company_name(listing["company"])
 
-    # Sort: most relevant (more matched tags) first, then most recently posted.
-    all_listings.sort(
-        key=lambda x: (-len(x["tags"]), x.get("posted_at", "")),
-        reverse=False,
-    )
     all_listings.sort(key=lambda x: len(x["tags"]), reverse=True)
 
     output = {
