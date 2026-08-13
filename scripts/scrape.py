@@ -34,6 +34,8 @@ GREENHOUSE_COMPANIES = [
     "xairatherapeutics",
     "evolutionaryscale",
     "colossalbiosciences",
+    "neuralink",
+    "formlabs",
 ]
 
 LEVER_COMPANIES = [
@@ -52,6 +54,9 @@ WORKDAY_COMPANIES = [
     ("illumina", "wd1", "illumina-universityrecruiting"),
     ("regeneron", "wd1", "Careers"),
     ("amgen", "wd1", "Careers"),
+    ("edwards", "wd5", "edwardscareers"),
+    ("dexcom", "wd1", "Dexcom"),
+    ("medtronic", "wd1", "MedtronicCareers"),
 ]
 
 RESUME_KEYWORDS = [
