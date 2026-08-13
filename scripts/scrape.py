@@ -2,10 +2,10 @@
 """
 Internship scraper for Jayden's tracker.
 
-Pulls live listings from public Greenhouse, Lever, and Workday job-board
-APIs for a curated list of bioengineering / biotech / medtech companies,
-filters for internship roles, tags them by relevance to Jayden's resume
-skills, and writes the result to data/listings.json.
+Pulls live listings from public Greenhouse, Lever, Ashby, and Workday
+job-board APIs for a curated list of bioengineering / biotech / medtech
+companies, filters for internship roles, tags them by relevance to
+Jayden's resume skills, and writes the result to data/listings.json.
 
 This is designed to run on a schedule via GitHub Actions (see
 .github/workflows/update.yml). No API keys required - these are the same
@@ -25,12 +25,6 @@ from urllib.error import HTTPError, URLError
 ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH = ROOT / "data" / "listings.json"
 
-# ---------------------------------------------------------------------------
-# Company sources. Every token below has been manually verified against the
-# company's live job board. Add/remove freely - a wrong or dead token is
-# just skipped, it won't break the run. See README.md for how to verify a
-# new one before adding it.
-# ---------------------------------------------------------------------------
 GREENHOUSE_COMPANIES = [
     "ginkgobioworks",
     "10xgenomics",
@@ -39,6 +33,7 @@ GREENHOUSE_COMPANIES = [
     "generatebiomedicines",
     "xairatherapeutics",
     "evolutionaryscale",
+    "colossalbiosciences",
 ]
 
 LEVER_COMPANIES = [
@@ -46,9 +41,12 @@ LEVER_COMPANIES = [
     # company's careers page for a "jobs.lever.co/COMPANY" URL).
 ]
 
-# Workday-hosted companies. Unlike Greenhouse/Lever, Workday doesn't have
-# one shared board format - each company has its own tenant + site name.
-# Format: (tenant subdomain, wd cluster e.g. "wd1"/"wd5", site path segment)
+ASHBY_COMPANIES = [
+    "iambic-therapeutics",
+    "basecamp-research",
+    "cradlebio",
+]
+
 WORKDAY_COMPANIES = [
     ("stryker", "wd1", "StrykerCareers"),
     ("illumina", "wd1", "illumina-universityrecruiting"),
@@ -56,8 +54,6 @@ WORKDAY_COMPANIES = [
     ("amgen", "wd1", "Careers"),
 ]
 
-# Keywords pulled from Jayden's resume/major - used only to TAG relevance,
-# not to filter roles out.
 RESUME_KEYWORDS = [
     "bioengineering", "biomedical", "biotech", "biotechnology",
     "medical device", "hardware", "embedded", "firmware", "arduino",
@@ -66,6 +62,34 @@ RESUME_KEYWORDS = [
 ]
 
 INTERN_PATTERN = re.compile(r"\bintern(ship)?\b", re.IGNORECASE)
+
+BLOCKED_LOCATION_KEYWORDS = [
+    "india", "china", "singapore", "japan", "australia", "brazil", "mexico",
+    "south korea", "korea", "israel", "uae", "dubai", "hong kong", "taiwan",
+    "vietnam", "philippines", "indonesia", "malaysia", "thailand",
+    "pakistan", "bangladesh", "new zealand", "south africa", "nigeria",
+    "egypt", "saudi", "qatar", "kuwait", "argentina", "chile", "colombia",
+    "peru", "russia",
+]
+
+EXCLUDE_TITLE_KEYWORDS = [
+    "mba", "sales", "commercial", "marketing", "finance", "financial",
+    "account executive", "account manager", "business development",
+    "communications", "human resources", "recruiting", "recruiter",
+    "legal", "customer success", "talent acquisition", "public relations",
+    "investor relations", "procurement",
+]
+
+
+def is_blocked_location(location):
+    loc = location.lower()
+    return any(kw in loc for kw in BLOCKED_LOCATION_KEYWORDS)
+
+
+def is_off_field_title(title):
+    t = title.lower()
+    return any(kw in t for kw in EXCLUDE_TITLE_KEYWORDS)
+
 
 HEADERS = {
     "User-Agent": "internship-tracker/1.0 (personal project)",
@@ -89,8 +113,7 @@ def fetch_json(url, retries=2, delay=1.5, method="GET", body=None):
 
 def tag_relevance(title, location):
     text = f"{title} {location}".lower()
-    matched = [kw for kw in RESUME_KEYWORDS if kw in text]
-    return matched
+    return [kw for kw in RESUME_KEYWORDS if kw in text]
 
 
 def scrape_greenhouse(token):
@@ -98,7 +121,6 @@ def scrape_greenhouse(token):
     data = fetch_json(url)
     if not data or "jobs" not in data:
         return []
-
     results = []
     for job in data["jobs"]:
         title = job.get("title", "")
@@ -123,7 +145,6 @@ def scrape_lever(token):
     data = fetch_json(url)
     if not data:
         return []
-
     results = []
     for job in data:
         title = job.get("text", "")
@@ -144,13 +165,37 @@ def scrape_lever(token):
     return results
 
 
+def scrape_ashby(token):
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{token}?includeCompensation=false"
+    data = fetch_json(url)
+    if not data or "jobs" not in data:
+        return []
+    results = []
+    for job in data["jobs"]:
+        title = job.get("title", "")
+        if not INTERN_PATTERN.search(title):
+            continue
+        location = job.get("location") or job.get("locationName") or "Unspecified"
+        job_url = job.get("jobUrl") or job.get("applyUrl") or f"https://jobs.ashbyhq.com/{token}"
+        results.append({
+            "id": f"ashby-{token}-{job.get('id')}",
+            "company": token,
+            "title": title,
+            "location": location,
+            "url": job_url,
+            "posted_at": job.get("publishedAt", ""),
+            "source": "ashby",
+            "tags": tag_relevance(title, location),
+        })
+    return results
+
+
 def scrape_workday(tenant, wd, site):
     url = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     body = {"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": "intern"}
     data = fetch_json(url, method="POST", body=body)
     if not data or "jobPostings" not in data:
         return []
-
     results = []
     for job in data["jobPostings"]:
         title = job.get("title", "")
@@ -159,8 +204,6 @@ def scrape_workday(tenant, wd, site):
         location = job.get("locationsText", "Unspecified")
         external_path = job.get("externalPath", "")
         full_url = f"https://{tenant}.{wd}.myworkdayjobs.com{external_path}"
-        # Workday only gives a relative label like "Posted 3 Days Ago",
-        # not an exact timestamp - stored as-is, the site displays it verbatim.
         posted_label = job.get("postedOn", "")
         results.append({
             "id": f"workday-{tenant}-{external_path}",
@@ -176,7 +219,6 @@ def scrape_workday(tenant, wd, site):
 
 
 def normalize_company_name(token):
-    # Light cleanup so raw slugs look presentable in the UI.
     return token.replace("-", " ").replace("_", " ").title()
 
 
@@ -195,11 +237,26 @@ def main():
         print(f"  {token}: {len(jobs)} internship postings")
         all_listings.extend(jobs)
 
+    print("Scraping Ashby boards...")
+    for token in ASHBY_COMPANIES:
+        jobs = scrape_ashby(token)
+        print(f"  {token}: {len(jobs)} internship postings")
+        all_listings.extend(jobs)
+
     print("Scraping Workday boards...")
     for tenant, wd, site in WORKDAY_COMPANIES:
         jobs = scrape_workday(tenant, wd, site)
         print(f"  {tenant}: {len(jobs)} internship postings")
         all_listings.extend(jobs)
+
+    before_filter = len(all_listings)
+    all_listings = [
+        listing for listing in all_listings
+        if not is_blocked_location(listing["location"])
+        and not is_off_field_title(listing["title"])
+    ]
+    print(f"\nFiltered out {before_filter - len(all_listings)} listings "
+          f"(off-field titles or unwanted locations)")
 
     for listing in all_listings:
         listing["company"] = normalize_company_name(listing["company"])
