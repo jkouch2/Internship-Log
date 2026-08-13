@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T22:01:39.841124+00:00",
-  "count": 16,
+  "generated_at": "2026-08-13T22:10:12.334371+00:00",
+  "count": 47,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -39,12 +39,272 @@
       ]
     },
     {
+      "id": "greenhouse-neuralink-7702527003",
+      "company": "Neuralink",
+      "title": "Electrical Engineer Intern, Implant Embedded Systems",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "greenhouse-neuralink-6283663003",
+      "company": "Neuralink",
+      "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "embedded"
+      ]
+    },
+    {
+      "id": "greenhouse-neuralink-6648992003",
+      "company": "Neuralink",
+      "title": "Firmware Engineer Intern, Robotics and Surgery Engineering",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003",
+      "posted_at": "2026-07-22T20:46:36-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "firmware"
+      ]
+    },
+    {
+      "id": "greenhouse-neuralink-7666761003",
+      "company": "Neuralink",
+      "title": "Manufacturing Intern, Surgery & Robot Hardware",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8097694",
+      "company": "Formlabs",
+      "title": "Hardware R&D Engineering Intern (Fall 2026)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+      "posted_at": "2026-07-30T17:03:46-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
       "id": "greenhouse-recursionpharmaceuticals-7540026",
       "company": "Recursionpharmaceuticals",
       "title": "Interested in an internship?",
       "location": "Remote Opportunity - United States; Salt Lake City, Utah",
       "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026",
       "posted_at": "2026-07-08T13:36:36-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-7565469003",
+      "company": "Neuralink",
+      "title": "Analog and Mixed-Signal IC Design Engineer Intern ",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
+      "posted_at": "2026-07-22T20:45:01-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-7090489003",
+      "company": "Neuralink",
+      "title": "Digital IC Design Engineer Intern",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003",
+      "posted_at": "2026-07-22T20:45:22-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-7736276003",
+      "company": "Neuralink",
+      "title": "IT Systems Administrator Intern",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6594261003",
+      "company": "Neuralink",
+      "title": "Machine Learning Engineer Intern",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6545426003",
+      "company": "Neuralink",
+      "title": "Mechanical Engineering Intern, Brain Interfaces",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6514169003",
+      "company": "Neuralink",
+      "title": "Mechanical Engineering Intern, Robotics",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-7483748003",
+      "company": "Neuralink",
+      "title": "Neuroengineer Intern",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7483748003?gh_jid=7483748003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-7808233003",
+      "company": "Neuralink",
+      "title": "R&D Materials Engineer Intern",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7808233003?gh_jid=7808233003",
+      "posted_at": "2026-07-24T17:28:02-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6576326003",
+      "company": "Neuralink",
+      "title": "Robot Optics Intern",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003",
+      "posted_at": "2026-07-22T20:48:08-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6594422003",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, BCI Applications",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6569018003",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Implant",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-5469298003",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Infrastructure",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6083322003",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Internal Apps",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-5469305003",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern, Robotics",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
+      "posted_at": "2026-06-22T12:34:11-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-7747228",
+      "company": "Formlabs",
+      "title": "Global Sourcing Intern (Fall 2026)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/7747228/apply/?gh_jid=7747228",
+      "posted_at": "2026-07-20T10:58:46-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-7997509",
+      "company": "Formlabs",
+      "title": "Print Production Intern (Fall 2026)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/7997509/apply/?gh_jid=7997509",
+      "posted_at": "2026-07-20T10:58:46-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8001882",
+      "company": "Formlabs",
+      "title": "Program Management - Global Sourcing Intern (Fall 2026)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8001882/apply/?gh_jid=8001882",
+      "posted_at": "2026-07-20T10:58:46-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8114569",
+      "company": "Formlabs",
+      "title": "Social Media Content Intern (Fall 2026)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8114569/apply/?gh_jid=8114569",
+      "posted_at": "2026-08-07T14:10:22-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8108754",
+      "company": "Formlabs",
+      "title": "Social Media Engineering Intern (Fall 2026)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8108754/apply/?gh_jid=8108754",
+      "posted_at": "2026-08-05T11:07:27-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8081194",
+      "company": "Formlabs",
+      "title": "Software Engineer Intern (Full stack)",
+      "location": "Budapest, Hungary",
+      "url": "https://careers.formlabs.com/job/8081194/apply/?gh_jid=8081194",
+      "posted_at": "2026-07-23T06:00:13-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -165,6 +425,66 @@
       "location": "Portugal - Lisbon",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
       "posted_at": "Posted 28 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-dexcom-/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
+      "company": "Dexcom",
+      "title": "2027 US Summer Internship - Early Interest",
+      "location": "San Diego, California",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1",
+      "company": "Medtronic",
+      "title": "Technical Support Intern",
+      "location": "3 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
+      "company": "Medtronic",
+      "title": "Engineering Intern \u2013 Summer 2027",
+      "location": "21 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
+      "posted_at": "Posted 12 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
+      "company": "Medtronic",
+      "title": "IT Intern - Summer 2027",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
+      "posted_at": "Posted 10 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Madrid-Madrid-Spain/Intern-Administrative-and-Business-Support_R70392-1",
+      "company": "Medtronic",
+      "title": "Intern Administrative and Business Support",
+      "location": "Madrid, Madrid, Spain",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Madrid-Madrid-Spain/Intern-Administrative-and-Business-Support_R70392-1",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "company": "Medtronic",
+      "title": "Software Engineering Intern \u2013 Summer 2027",
+      "location": "21 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "posted_at": "Posted 12 Days Ago",
       "source": "workday",
       "tags": []
     }
