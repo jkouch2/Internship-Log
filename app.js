@@ -2,36 +2,58 @@ const state = {
   all: [],
   search: "",
   relevantOnly: false,
+  freshOnly: false,
 };
 
-const listingsEl = document.getElementById("listings");
+const tbodyEl = document.getElementById("listings-body");
 const emptyStateEl = document.getElementById("empty-state");
 const resultCountEl = document.getElementById("result-count");
 const updatedLineEl = document.getElementById("updated-line");
 const searchEl = document.getElementById("search");
-const relevantToggleEl = document.getElementById("relevant-only");
+const freshToggleEl = document.getElementById("fresh-toggle");
+const relevantToggleEl = document.getElementById("relevant-toggle");
 
-function timeAgo(isoString) {
-  if (!isoString) return "date unknown";
-  const then = new Date(isoString);
-  if (isNaN(then)) return "date unknown";
-  const diffMs = Date.now() - then.getTime();
-  const days = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-  if (days <= 0) return "posted today";
-  if (days === 1) return "posted 1 day ago";
-  if (days < 30) return `posted ${days} days ago`;
-  const months = Math.floor(days / 30);
-  return `posted ${months} mo ago`;
+function parseDate(dateValue) {
+  if (!dateValue) return null;
+  const d = new Date(dateValue);
+  return isNaN(d) ? null : d;
+}
+
+function isWithinLast24Hrs(dateValue) {
+  const d = parseDate(dateValue);
+  if (!d) return false;
+  return Date.now() - d.getTime() <= 24 * 60 * 60 * 1000;
+}
+
+function postedLabel(dateValue) {
+  const d = parseDate(dateValue);
+  if (!d) {
+    return dateValue ? dateValue.toLowerCase() : "date unknown";
+  }
+  const days = Math.floor((Date.now() - d.getTime()) / (1000 * 60 * 60 * 24));
+  if (days <= 0) return "today";
+  if (days === 1) return "1 day ago";
+  if (days < 30) return `${days} days ago`;
+  return `${Math.floor(days / 30)} mo ago`;
 }
 
 function formatUpdatedLine(isoString) {
   if (!isoString) return "Waiting on the first automated scrape to run.";
   const dt = new Date(isoString);
-  const formatted = dt.toLocaleString(undefined, {
-    dateStyle: "medium",
-    timeStyle: "short",
-  });
-  return `Listings last refreshed: ${formatted}`;
+  return `Listings last refreshed: ${dt.toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" })}`;
+}
+
+function initials(name) {
+  return name
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map((w) => w[0].toUpperCase())
+    .join("");
+}
+
+function matchScore(tagCount) {
+  return Math.min(100, tagCount * 30);
 }
 
 function render() {
@@ -39,58 +61,80 @@ function render() {
 
   const filtered = state.all.filter((item) => {
     if (state.relevantOnly && item.tags.length === 0) return false;
+    if (state.freshOnly && !isWithinLast24Hrs(item.posted_at)) return false;
     if (!q) return true;
     const haystack = `${item.company} ${item.title} ${item.location}`.toLowerCase();
     return haystack.includes(q);
   });
 
   resultCountEl.textContent = `${filtered.length} of ${state.all.length} internship postings`;
-
-  listingsEl.innerHTML = "";
+  tbodyEl.innerHTML = "";
   emptyStateEl.hidden = filtered.length !== 0;
 
   for (const item of filtered) {
-    const card = document.createElement("article");
-    card.className = "listing-card" + (item.tags.length > 0 ? " is-relevant" : "");
+    const tr = document.createElement("tr");
 
-    const title = document.createElement("h2");
-    title.className = "listing-title";
+    const companyTd = document.createElement("td");
+    companyTd.className = "col-company";
+    const companyCell = document.createElement("div");
+    companyCell.className = "company-cell";
+    const avatar = document.createElement("div");
+    avatar.className = "company-avatar";
+    avatar.textContent = initials(item.company);
+    const companyName = document.createElement("span");
+    companyName.className = "company-name";
+    companyName.textContent = item.company;
+    companyCell.appendChild(avatar);
+    companyCell.appendChild(companyName);
+    companyTd.appendChild(companyCell);
+
+    const roleTd = document.createElement("td");
+    roleTd.className = "col-role";
     const link = document.createElement("a");
+    link.className = "role-title";
     link.href = item.url || "#";
     link.target = "_blank";
     link.rel = "noopener noreferrer";
     link.textContent = item.title;
-    title.appendChild(link);
-
-    const freshness = document.createElement("span");
-    freshness.className = "freshness";
-    freshness.textContent = timeAgo(item.posted_at);
-
-    const meta = document.createElement("p");
-    meta.className = "listing-meta";
-    const companySpan = document.createElement("span");
-    companySpan.className = "company";
-    companySpan.textContent = item.company;
-    meta.appendChild(companySpan);
-    meta.appendChild(document.createTextNode(` — ${item.location}`));
-
-    card.appendChild(title);
-    card.appendChild(freshness);
-    card.appendChild(meta);
-
-    if (item.tags.length > 0) {
-      const tagsWrap = document.createElement("div");
-      tagsWrap.className = "tags";
-      for (const tag of item.tags) {
-        const chip = document.createElement("span");
-        chip.className = "tag";
-        chip.textContent = tag;
-        tagsWrap.appendChild(chip);
-      }
-      card.appendChild(tagsWrap);
+    roleTd.appendChild(link);
+    if (isWithinLast24Hrs(item.posted_at)) {
+      const badge = document.createElement("span");
+      badge.className = "fresh-badge";
+      badge.textContent = "NEW";
+      roleTd.appendChild(badge);
     }
 
-    listingsEl.appendChild(card);
+    const locationTd = document.createElement("td");
+    locationTd.className = "col-location";
+    const locSpan = document.createElement("span");
+    locSpan.className = "location-text";
+    locSpan.textContent = item.location;
+    locationTd.appendChild(locSpan);
+
+    const postedTd = document.createElement("td");
+    postedTd.className = "col-posted";
+    const postedSpan = document.createElement("span");
+    postedSpan.className = "posted-text";
+    postedSpan.textContent = postedLabel(item.posted_at);
+    postedTd.appendChild(postedSpan);
+
+    const matchTd = document.createElement("td");
+    matchTd.className = "col-match";
+    const score = matchScore(item.tags.length);
+    const scoreSpan = document.createElement("span");
+    scoreSpan.className = "match-score" + (score === 0 ? " low" : "");
+    scoreSpan.textContent = score === 0 ? "—" : `${score}%`;
+    if (item.tags.length > 0) {
+      scoreSpan.title = item.tags.join(", ");
+    }
+    matchTd.appendChild(scoreSpan);
+
+    tr.appendChild(companyTd);
+    tr.appendChild(roleTd);
+    tr.appendChild(locationTd);
+    tr.appendChild(postedTd);
+    tr.appendChild(matchTd);
+    tbodyEl.appendChild(tr);
   }
 }
 
@@ -112,8 +156,15 @@ searchEl.addEventListener("input", (e) => {
   render();
 });
 
-relevantToggleEl.addEventListener("change", (e) => {
-  state.relevantOnly = e.target.checked;
+freshToggleEl.addEventListener("click", () => {
+  state.freshOnly = !state.freshOnly;
+  freshToggleEl.setAttribute("aria-pressed", String(state.freshOnly));
+  render();
+});
+
+relevantToggleEl.addEventListener("click", () => {
+  state.relevantOnly = !state.relevantOnly;
+  relevantToggleEl.setAttribute("aria-pressed", String(state.relevantOnly));
   render();
 });
 
