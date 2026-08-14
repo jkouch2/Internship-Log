@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:47:31.349084+00:00",
+  "generated_at": "2026-08-14T09:42:39.648133+00:00",
   "count": 47,
   "listings": [
     {
@@ -324,7 +324,7 @@
       "title": "HR Administration Intern",
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/HR-Administration-Intern_R568710",
-      "posted_at": "Posted 20 Days Ago",
+      "posted_at": "Posted 21 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -334,7 +334,7 @@
       "title": "Intern, Customer Services",
       "location": "Roma, Rome Via Alexandre Gustave Eiffel 13/15",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Intern--Customer-Services_R568969",
-      "posted_at": "Posted 17 Days Ago",
+      "posted_at": "Posted 18 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -344,17 +344,7 @@
       "title": "Intern, Customer Services",
       "location": "Rome, Italy",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R568244",
-      "posted_at": "Posted 13 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R570259-1",
-      "company": "Stryker",
-      "title": "Intern, Customer Services",
-      "location": "Rome, Italy",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R570259-1",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 14 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -374,7 +364,7 @@
       "title": "Intern Tenders, Contracts & Pricing",
       "location": "Rome, Italy",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
-      "posted_at": "Posted 8 Days Ago",
+      "posted_at": "Posted 9 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -384,7 +374,7 @@
       "title": "Master Data Management Intern",
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569483-1",
-      "posted_at": "Posted 6 Days Ago",
+      "posted_at": "Posted 7 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -404,7 +394,7 @@
       "title": "Discover Internship R2R",
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Discover-Internship-R2R_R569838",
-      "posted_at": "Posted 9 Days Ago",
+      "posted_at": "Posted 10 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -414,7 +404,7 @@
       "title": "Internship Program - Technology",
       "location": "Portugal - Lisbon",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Technology_R-245174",
-      "posted_at": "Posted 22 Days Ago",
+      "posted_at": "Posted 23 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -424,7 +414,7 @@
       "title": "Internship Program \u2013 Business & Operations",
       "location": "Portugal - Lisbon",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
-      "posted_at": "Posted 28 Days Ago",
+      "posted_at": "Posted 29 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -444,7 +434,7 @@
       "title": "Technical Support Intern",
       "location": "3 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1",
-      "posted_at": "Posted Today",
+      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     },
@@ -454,7 +444,7 @@
       "title": "Engineering Intern \u2013 Summer 2027",
       "location": "21 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
-      "posted_at": "Posted 12 Days Ago",
+      "posted_at": "Posted 13 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -464,7 +454,7 @@
       "title": "IT Intern - Summer 2027",
       "location": "Minneapolis, Minnesota, United States of America",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
-      "posted_at": "Posted 10 Days Ago",
+      "posted_at": "Posted 11 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -484,7 +474,17 @@
       "title": "Software Engineering Intern \u2013 Summer 2027",
       "location": "21 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
-      "posted_at": "Posted 12 Days Ago",
+      "posted_at": "Posted 13 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2",
+      "company": "Medtronic",
+      "title": "Supply Chain/Supply Management Intern- Summer 2027",
+      "location": "7 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2",
+      "posted_at": "Posted 13 Days Ago",
       "source": "workday",
       "tags": []
     }
