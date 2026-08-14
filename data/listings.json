@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T15:08:08.175597+00:00",
-  "count": 46,
+  "generated_at": "2026-08-14T20:01:59.863588+00:00",
+  "count": 47,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -255,6 +255,16 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/7747228/apply/?gh_jid=7747228",
       "posted_at": "2026-07-20T10:58:46-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8130829",
+      "company": "Formlabs",
+      "title": "Mechanical Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829",
+      "posted_at": "2026-08-14T15:06:17-04:00",
       "source": "greenhouse",
       "tags": []
     },
