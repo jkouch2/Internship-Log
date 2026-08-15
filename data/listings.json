@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T20:01:59.863588+00:00",
-  "count": 47,
+  "generated_at": "2026-08-15T03:04:20.209092+00:00",
+  "count": 48,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -36,6 +36,18 @@
       "source": "greenhouse",
       "tags": [
         "lab"
+      ]
+    },
+    {
+      "id": "greenhouse-neuralink-7872639003",
+      "company": "Neuralink",
+      "title": "Biomedical Engineer Intern",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003",
+      "posted_at": "2026-08-14T18:57:49-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "biomedical"
       ]
     },
     {
