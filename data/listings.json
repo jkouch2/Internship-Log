@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T07:20:15.146566+00:00",
-  "count": 31,
+  "generated_at": "2026-08-15T13:40:29.571726+00:00",
+  "count": 48,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -328,6 +328,176 @@
       "url": "https://careers.formlabs.com/job/8081194/apply/?gh_jid=8081194",
       "posted_at": "2026-07-23T06:00:13-04:00",
       "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Istanbul-Trkiye/Logistics-Intern_R567633",
+      "company": "Stryker",
+      "title": "Logistics Intern",
+      "location": "Istanbul, T\u00fcrkiye",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Istanbul-Trkiye/Logistics-Intern_R567633",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/HR-Administration-Intern_R568710",
+      "company": "Stryker",
+      "title": "HR Administration Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/HR-Administration-Intern_R568710",
+      "posted_at": "Posted 22 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R568244",
+      "company": "Stryker",
+      "title": "Intern, Customer Services",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R568244",
+      "posted_at": "Posted 15 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
+      "company": "Stryker",
+      "title": "HR Intern (Leaves Administration)",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
+      "company": "Stryker",
+      "title": "Intern Tenders, Contracts & Pricing",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
+      "posted_at": "Posted 10 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Master-Data-Management-Intern_R569483-1",
+      "company": "Stryker",
+      "title": "Master Data Management Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569483-1",
+      "posted_at": "Posted 8 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
+      "company": "Stryker",
+      "title": "HR Operations Intern, Benefits Admin",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Discover-Internship-R2R_R569838",
+      "company": "Stryker",
+      "title": "Discover Internship R2R",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Discover-Internship-R2R_R569838",
+      "posted_at": "Posted 11 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/Portugal---Lisbon/Internship-Program---Technology_R-245174",
+      "company": "Amgen",
+      "title": "Internship Program - Technology",
+      "location": "Portugal - Lisbon",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Technology_R-245174",
+      "posted_at": "Posted 24 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
+      "company": "Amgen",
+      "title": "Internship Program \u2013 Business & Operations",
+      "location": "Portugal - Lisbon",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
+      "posted_at": "Posted 30 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-dexcom-/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
+      "company": "Dexcom",
+      "title": "2027 US Summer Internship - Early Interest",
+      "location": "San Diego, California",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1",
+      "company": "Medtronic",
+      "title": "Technical Support Intern",
+      "location": "3 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alicante-Alicante-Spain/Technical-Support-Intern_R73161-1",
+      "posted_at": "Posted 2 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
+      "company": "Medtronic",
+      "title": "Engineering Intern \u2013 Summer 2027",
+      "location": "21 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
+      "posted_at": "Posted 14 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
+      "company": "Medtronic",
+      "title": "IT Intern - Summer 2027",
+      "location": "Minneapolis, Minnesota, United States of America",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
+      "posted_at": "Posted 12 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Madrid-Madrid-Spain/Intern-Administrative-and-Business-Support_R70392-1",
+      "company": "Medtronic",
+      "title": "Intern Administrative and Business Support",
+      "location": "Madrid, Madrid, Spain",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Madrid-Madrid-Spain/Intern-Administrative-and-Business-Support_R70392-1",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "company": "Medtronic",
+      "title": "Software Engineering Intern \u2013 Summer 2027",
+      "location": "21 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "posted_at": "Posted 14 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2",
+      "company": "Medtronic",
+      "title": "Supply Chain/Supply Management Intern- Summer 2027",
+      "location": "7 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2",
+      "posted_at": "Posted 14 Days Ago",
+      "source": "workday",
       "tags": []
     }
   ]
