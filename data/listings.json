@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T08:05:06.691734+00:00",
-  "count": 47,
+  "generated_at": "2026-08-20T14:10:19.583531+00:00",
+  "count": 48,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -387,6 +387,16 @@
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569483-1",
       "posted_at": "Posted 13 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
+      "company": "Stryker",
+      "title": "Master Data Management Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
