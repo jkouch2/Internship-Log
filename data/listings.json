@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T19:16:34.406785+00:00",
-  "count": 46,
+  "generated_at": "2026-08-22T03:09:40.349355+00:00",
+  "count": 48,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -56,7 +56,7 @@
       "title": "Electrical Engineer Intern, Implant Embedded Systems",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:28:29-04:00",
       "source": "greenhouse",
       "tags": [
         "embedded"
@@ -68,7 +68,7 @@
       "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:32:32-04:00",
       "source": "greenhouse",
       "tags": [
         "embedded"
@@ -80,7 +80,7 @@
       "title": "Firmware Engineer Intern, Robotics and Surgery Engineering",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003",
-      "posted_at": "2026-07-22T20:46:36-04:00",
+      "posted_at": "2026-08-21T16:33:09-04:00",
       "source": "greenhouse",
       "tags": [
         "firmware"
@@ -92,7 +92,7 @@
       "title": "Manufacturing Intern, Surgery & Robot Hardware",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:38:28-04:00",
       "source": "greenhouse",
       "tags": [
         "hardware"
@@ -126,7 +126,7 @@
       "title": "Analog and Mixed-Signal IC Design Engineer Intern ",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
-      "posted_at": "2026-07-22T20:45:01-04:00",
+      "posted_at": "2026-08-21T16:26:49-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -136,7 +136,17 @@
       "title": "Digital IC Design Engineer Intern",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003",
-      "posted_at": "2026-07-22T20:45:22-04:00",
+      "posted_at": "2026-08-21T16:27:51-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-6607398003",
+      "company": "Neuralink",
+      "title": "Electrical Engineer Intern, Robotics and Surgery Engineering",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003",
+      "posted_at": "2026-08-21T16:29:40-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -146,7 +156,7 @@
       "title": "IT Systems Administrator Intern",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:35:03-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -156,7 +166,7 @@
       "title": "Machine Learning Engineer Intern",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:36:55-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -166,17 +176,17 @@
       "title": "Mechanical Engineering Intern, Brain Interfaces",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:39:09-04:00",
       "source": "greenhouse",
       "tags": []
     },
     {
       "id": "greenhouse-neuralink-6514169003",
       "company": "Neuralink",
-      "title": "Mechanical Engineering Intern, Robotics",
+      "title": "Mechanical Engineering Intern, Robotics and Surgery Engineering",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:40:25-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -186,7 +196,7 @@
       "title": "Neuroengineer Intern",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7483748003?gh_jid=7483748003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:41:02-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -206,7 +216,7 @@
       "title": "Robot Optics Intern",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003",
-      "posted_at": "2026-07-22T20:48:08-04:00",
+      "posted_at": "2026-08-21T16:49:57-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -216,7 +226,7 @@
       "title": "Software Engineer Intern, BCI Applications",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:50:33-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -226,7 +236,7 @@
       "title": "Software Engineer Intern, Implant",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003",
-      "posted_at": "2026-08-17T13:55:11-04:00",
+      "posted_at": "2026-08-21T16:51:28-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -236,7 +246,7 @@
       "title": "Software Engineer Intern, Infrastructure",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:52:47-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -246,7 +256,7 @@
       "title": "Software Engineer Intern, Internal Apps",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:53:38-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -256,7 +266,17 @@
       "title": "Software Engineer Intern, Robotics",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
-      "posted_at": "2026-06-22T12:34:11-04:00",
+      "posted_at": "2026-08-21T16:54:20-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8148283",
+      "company": "Formlabs",
+      "title": "Electrical Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283",
+      "posted_at": "2026-08-21T15:55:12-04:00",
       "source": "greenhouse",
       "tags": []
     },
