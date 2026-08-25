@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T14:28:46.048645+00:00",
-  "count": 48,
+  "generated_at": "2026-08-25T19:46:01.104798+00:00",
+  "count": 49,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -214,9 +214,9 @@
       "id": "greenhouse-neuralink-6576326003",
       "company": "Neuralink",
       "title": "Robot Optics Intern",
-      "location": "South San Francisco, California, United States",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003",
-      "posted_at": "2026-08-21T16:49:57-04:00",
+      "posted_at": "2026-08-25T15:39:39-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -411,6 +411,16 @@
       "tags": []
     },
     {
+      "id": "workday-amgen-/job/United-States---Remote/Grad-Intern---Operations--Fall-2026-_R-253415",
+      "company": "Amgen",
+      "title": "Grad Intern - Operations (Fall 2026)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Operations--Fall-2026-_R-253415",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-amgen-/job/Portugal---Lisbon/Internship-Program---Technology_R-245174",
       "company": "Amgen",
       "title": "Internship Program - Technology",
@@ -436,7 +446,7 @@
       "title": "2027 US Summer Internship - Early Interest",
       "location": "San Diego, California",
       "url": "https://dexcom.wd1.myworkdayjobs.com/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
@@ -491,12 +501,12 @@
       "tags": []
     },
     {
-      "id": "workday-medtronic-/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695-1",
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
       "company": "Medtronic",
-      "title": "Intern Business Support Benelux",
-      "location": "Heerlen, Limburg, Netherlands",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695-1",
-      "posted_at": "Posted 30+ Days Ago",
+      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference",
+      "location": "15 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     }
