@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T21:29:46.413183+00:00",
-  "count": 49,
+  "generated_at": "2026-08-26T03:35:42.560326+00:00",
+  "count": 50,
   "listings": [
     {
       "id": "greenhouse-ginkgobioworks-5022683007",
@@ -507,6 +507,16 @@
       "location": "15 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
       "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695-1",
+      "company": "Medtronic",
+      "title": "Intern Business Support Benelux",
+      "location": "Heerlen, Limburg, Netherlands",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695-1",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     }
