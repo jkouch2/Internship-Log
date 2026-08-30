@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T12:07:13.230139+00:00",
-  "count": 50,
+  "generated_at": "2026-08-30T18:06:30.117539+00:00",
+  "count": 51,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -520,6 +520,16 @@
       "location": "20 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
       "posted_at": "Posted 3 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695-1",
+      "company": "Medtronic",
+      "title": "Intern Business Support Benelux",
+      "location": "Heerlen, Limburg, Netherlands",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Heerlen-Limburg-Netherlands/Intern-Business-Support-Benelux_R70695-1",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     }
