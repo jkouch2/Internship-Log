@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T18:06:30.117539+00:00",
-  "count": 51,
+  "generated_at": "2026-08-31T00:08:20.940145+00:00",
+  "count": 54,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -121,6 +121,18 @@
       "source": "greenhouse",
       "tags": [
         "hardware"
+      ]
+    },
+    {
+      "id": "workday-stryker-/job/Schnkirchen-Germany/Internship-Packaging-Engineering---Medical-Devices---6-Months---Start-Spring-2027_R572042",
+      "company": "Stryker",
+      "title": "Internship Packaging Engineering & Medical Devices \u2013 6 Months | Start Spring 2027",
+      "location": "Sch\u00f6nkirchen, Germany",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Schnkirchen-Germany/Internship-Packaging-Engineering---Medical-Devices---6-Months---Start-Spring-2027_R572042",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": [
+        "medical device"
       ]
     },
     {
@@ -390,6 +402,26 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Freiburg-Germany/Internship-Medical-Engineering---Surgical-Navigation-6-months---Start-Spring-2027_R572080-1",
+      "company": "Stryker",
+      "title": "Internship Medical Engineering & Surgical Navigation 6 months | Start Spring 2027",
+      "location": "Freiburg, Germany",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Freiburg-Germany/Internship-Medical-Engineering---Surgical-Navigation-6-months---Start-Spring-2027_R572080-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Schnkirchen-Germany/Internship-Data-Analytics---Process-Improvement---6-Months---Start-Spring-2027_R572267",
+      "company": "Stryker",
+      "title": "Internship Data Analytics & Process Improvement \u2013 6 Months | Start Spring 2027",
+      "location": "Sch\u00f6nkirchen, Germany",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Schnkirchen-Germany/Internship-Data-Analytics---Process-Improvement---6-Months---Start-Spring-2027_R572267",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
