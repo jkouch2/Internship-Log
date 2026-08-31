@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:07:20.521302+00:00",
+  "generated_at": "2026-08-31T18:06:40.980443+00:00",
   "count": 51,
   "listings": [
     {
@@ -354,6 +354,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Warsaw-Poland/Support-Analyst-Intern_R571969",
+      "company": "Stryker",
+      "title": "Support Analyst Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Support-Analyst-Intern_R571969",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
       "company": "Stryker",
       "title": "HR Intern (Leaves Administration)",
@@ -404,16 +414,6 @@
       "tags": []
     },
     {
-      "id": "workday-amgen-/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
-      "company": "Amgen",
-      "title": "Internship Program \u2013 Business & Operations",
-      "location": "Portugal - Lisbon",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/Portugal---Lisbon/Internship-Program---Business---Operations_R-245173",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-amgen-/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424",
       "company": "Amgen",
       "title": "Undergrad intern - U.S. Value & Access (Summer 2027)",
@@ -444,12 +444,12 @@
       "tags": []
     },
     {
-      "id": "workday-edwards-/job/Spain-Valencia-Plant/Spain-Internship-Program---Valencia-Implant-Manufacturing-Internship_Req-48236",
-      "company": "Edwards",
-      "title": "Spain Internship Program, Valencia Implant Manufacturing Interns",
-      "location": "Spain-Valencia Plant",
-      "url": "https://edwards.wd5.myworkdayjobs.com/job/Spain-Valencia-Plant/Spain-Internship-Program---Valencia-Implant-Manufacturing-Internship_Req-48236",
-      "posted_at": "Posted 5 Days Ago",
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
+      "company": "Amgen",
+      "title": "Undergrad Intern - Operations \u2013 Process Development (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
+      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
