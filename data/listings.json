@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T18:14:23.943945+00:00",
-  "count": 55,
+  "generated_at": "2026-09-02T00:18:49.132181+00:00",
+  "count": 63,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -118,6 +118,30 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
       "posted_at": "2026-07-30T17:03:46-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8172226",
+      "company": "Formlabs",
+      "title": "Hardware R&D Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226",
+      "posted_at": "2026-09-01T19:58:56-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8172004",
+      "company": "Formlabs",
+      "title": "Hardware Systems Integration Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004",
+      "posted_at": "2026-09-01T19:58:42-04:00",
       "source": "greenhouse",
       "tags": [
         "hardware"
@@ -294,12 +318,32 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8172232",
+      "company": "Formlabs",
+      "title": "Industrial Design Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232",
+      "posted_at": "2026-09-01T19:59:33-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8130829",
       "company": "Formlabs",
       "title": "Mechanical Engineering Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829",
       "posted_at": "2026-08-18T11:13:12-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8172256",
+      "company": "Formlabs",
+      "title": "Print Optimization Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172256/apply/?gh_jid=8172256",
+      "posted_at": "2026-09-01T19:58:25-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -344,6 +388,26 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728",
+      "company": "Stryker",
+      "title": "Mechanical Engineering Intern",
+      "location": "Redmond, Washington",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886",
+      "company": "Stryker",
+      "title": "Quality Engineering Intern",
+      "location": "Flower Mound, Texas",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
       "company": "Stryker",
       "title": "HR Intern (Leaves Administration)",
@@ -374,6 +438,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
+      "company": "Stryker",
+      "title": "Data Science Intern - Remote",
+      "location": "Florida, Virtual Address",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
       "company": "Stryker",
       "title": "HR Operations Intern, Benefits Admin",
@@ -399,6 +473,16 @@
       "title": "Industrial Design Intern - Portage, MI",
       "location": "Portage, Michigan",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881",
+      "company": "Stryker",
+      "title": "Intern, Process Engineering, Advanced Operations",
+      "location": "Tempe, Arizona",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881",
       "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
