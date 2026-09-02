@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T12:16:26.729155+00:00",
-  "count": 63,
+  "generated_at": "2026-09-02T18:14:57.135422+00:00",
+  "count": 62,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -378,6 +378,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Warsaw-Poland/HR-Administration-Intern_R568710",
+      "company": "Stryker",
+      "title": "HR Administration Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/HR-Administration-Intern_R568710",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Warsaw-Poland/Support-Analyst-Intern_R571969",
       "company": "Stryker",
       "title": "Support Analyst Intern",
@@ -464,26 +474,6 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
       "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-      "company": "Stryker",
-      "title": "Post Market Quality Engineering Intern",
-      "location": "Redmond, Washington",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-      "posted_at": "Posted Yesterday",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730",
-      "company": "Stryker",
-      "title": "Industrial Design Intern - Portage, MI",
-      "location": "Portage, Michigan",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730",
-      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     },
