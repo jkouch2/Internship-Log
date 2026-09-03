@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T18:14:57.135422+00:00",
-  "count": 62,
+  "generated_at": "2026-09-03T00:19:30.050937+00:00",
+  "count": 65,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -318,6 +318,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8161780",
+      "company": "Formlabs",
+      "title": "Global Sourcing Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8161780/apply/?gh_jid=8161780",
+      "posted_at": "2026-09-02T16:31:47-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8172232",
       "company": "Formlabs",
       "title": "Industrial Design Intern (Winter/Spring 2027)",
@@ -418,6 +428,26 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
+      "company": "Stryker",
+      "title": "Manufacturing Engineering Intern",
+      "location": "Redmond, Washington",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1",
+      "company": "Stryker",
+      "title": "Manufacturing Engineering Intern",
+      "location": "San Jose, California",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
       "company": "Stryker",
       "title": "HR Intern (Leaves Administration)",
@@ -468,12 +498,12 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
+      "id": "workday-stryker-/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
       "company": "Stryker",
-      "title": "HR Operations Intern, Benefits Admin",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Operations-Intern--Benefits-Admin_R567433",
-      "posted_at": "Posted 30+ Days Ago",
+      "title": "Advanced Operations Summer Intern",
+      "location": "Weston, Florida",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
