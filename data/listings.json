@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T18:14:13.614993+00:00",
-  "count": 64,
+  "generated_at": "2026-09-04T00:17:38.546476+00:00",
+  "count": 65,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -258,16 +258,6 @@
       "tags": []
     },
     {
-      "id": "greenhouse-neuralink-6594422003",
-      "company": "Neuralink",
-      "title": "Software Engineer Intern, BCI Applications",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003",
-      "posted_at": "2026-08-25T16:27:58-04:00",
-      "source": "greenhouse",
-      "tags": []
-    },
-    {
       "id": "greenhouse-neuralink-6569018003",
       "company": "Neuralink",
       "title": "Software Engineer Intern, Implant",
@@ -334,6 +324,16 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8172232/apply/?gh_jid=8172232",
       "posted_at": "2026-09-01T19:59:33-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8161817",
+      "company": "Formlabs",
+      "title": "Manufacturing Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817",
+      "posted_at": "2026-09-03T14:28:06-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -458,6 +458,46 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
+      "company": "Stryker",
+      "title": "Mechanical Engineering Intern",
+      "location": "Massachusetts, Virtual Address",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830",
+      "company": "Stryker",
+      "title": "Packaging Engineering Intern",
+      "location": "Tempe, Arizona",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
+      "company": "Stryker",
+      "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
+      "location": "Arlington, Tennessee",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
+      "company": "Stryker",
+      "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
+      "location": "Arlington, Tennessee",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
       "company": "Stryker",
       "title": "HR Intern (Leaves Administration)",
@@ -484,36 +524,6 @@
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
       "posted_at": "Posted 14 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
-      "company": "Stryker",
-      "title": "Data Science Intern - Remote",
-      "location": "Florida, Virtual Address",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
-      "posted_at": "Posted 2 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568593",
-      "company": "Stryker",
-      "title": "Intern Tenders, Contracts & Pricing",
-      "location": "Rome, Italy",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568593",
-      "posted_at": "Posted Yesterday",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
-      "company": "Stryker",
-      "title": "Advanced Operations Summer Intern",
-      "location": "Weston, Florida",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
-      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     },
