@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T12:15:58.380214+00:00",
-  "count": 63,
+  "generated_at": "2026-09-04T18:13:42.775504+00:00",
+  "count": 62,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -478,6 +478,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Portage-Michigan/Packaging-Engineer---Intern_R572717-1",
+      "company": "Stryker",
+      "title": "Packaging Engineer - Intern",
+      "location": "Portage, Michigan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Packaging-Engineer---Intern_R572717-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
       "company": "Stryker",
       "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
@@ -504,26 +514,6 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R565754",
       "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
-      "company": "Stryker",
-      "title": "Intern Tenders, Contracts & Pricing",
-      "location": "Rome, Italy",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
-      "posted_at": "Posted 30 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
-      "company": "Stryker",
-      "title": "Master Data Management Intern",
-      "location": "Warsaw, Poland",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
-      "posted_at": "Posted 15 Days Ago",
       "source": "workday",
       "tags": []
     },
