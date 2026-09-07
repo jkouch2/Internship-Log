@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:16:14.811099+00:00",
+  "generated_at": "2026-09-07T18:14:25.623670+00:00",
   "count": 66,
   "listings": [
     {
@@ -488,6 +488,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Fremont-California/R-D-Intern_R572862",
+      "company": "Stryker",
+      "title": "R&D Intern",
+      "location": "Fremont, California",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Fremont-California/R-D-Intern_R572862",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Portage-Michigan/Packaging-Engineer---Intern_R572717-1",
       "company": "Stryker",
       "title": "Packaging Engineer - Intern",
@@ -524,16 +534,6 @@
       "location": "Rome, Italy",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
       "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
-      "company": "Stryker",
-      "title": "Master Data Management Intern",
-      "location": "Warsaw, Poland",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
-      "posted_at": "Posted 18 Days Ago",
       "source": "workday",
       "tags": []
     },
