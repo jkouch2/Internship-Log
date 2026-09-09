@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:14:44.804723+00:00",
-  "count": 60,
+  "generated_at": "2026-09-09T00:20:04.374195+00:00",
+  "count": 61,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -308,6 +308,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8174874",
+      "company": "Formlabs",
+      "title": "AI Software Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874",
+      "posted_at": "2026-09-08T14:26:26-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8148283",
       "company": "Formlabs",
       "title": "Electrical Engineering Intern (Winter/Spring 2027)",
@@ -323,7 +333,7 @@
       "title": "Global Sourcing Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8161780/apply/?gh_jid=8161780",
-      "posted_at": "2026-09-02T16:31:47-04:00",
+      "posted_at": "2026-09-08T14:21:18-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -343,7 +353,7 @@
       "title": "Manufacturing Engineering Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817",
-      "posted_at": "2026-09-03T14:28:06-04:00",
+      "posted_at": "2026-09-08T14:21:55-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -528,6 +538,26 @@
       "tags": []
     },
     {
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349",
+      "company": "Amgen",
+      "title": "Grad Intern - Operations - Engineering (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335",
+      "company": "Amgen",
+      "title": "Undergrad Intern - Operations \u2013 Engineering (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-amgen-/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424",
       "company": "Amgen",
       "title": "Undergrad intern - U.S. Value & Access (Summer 2027)",
@@ -553,26 +583,6 @@
       "title": "Undergrad Intern - Operations \u2013 West Greenwich, RI (Summer 2027)",
       "location": "US - Rhode Island - West Greenwich",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---Rhode-Island---West-Greenwich/Undergrad-Intern---Operations---West-Greenwich--RI--Summer-2027-_R-254514",
-      "posted_at": "Posted 11 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
-      "company": "Amgen",
-      "title": "Undergrad Intern - Operations \u2013 Process Development (Summer 2027)",
-      "location": "US - California - Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
-      "posted_at": "Posted 11 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
-      "company": "Amgen",
-      "title": "Grad Intern - Operations \u2013 Process Development (Summer 2027)",
-      "location": "US - California - Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
       "posted_at": "Posted 11 Days Ago",
       "source": "workday",
       "tags": []
