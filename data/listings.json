@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:15:35.523753+00:00",
-  "count": 61,
+  "generated_at": "2026-09-09T18:15:15.753432+00:00",
+  "count": 63,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -109,6 +109,18 @@
       "source": "greenhouse",
       "tags": [
         "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8188578",
+      "company": "Formlabs",
+      "title": "Embedded Software Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578",
+      "posted_at": "2026-09-09T11:17:45-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "embedded"
       ]
     },
     {
@@ -448,16 +460,6 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1",
-      "company": "Stryker",
-      "title": "Manufacturing Engineering Intern",
-      "location": "San Jose, California",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1",
-      "posted_at": "Posted 7 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922",
       "company": "Stryker",
       "title": "Manufacturing Engineering Intern",
@@ -498,16 +500,6 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Portage-Michigan/Packaging-Engineer---Intern_R572717-1",
-      "company": "Stryker",
-      "title": "Packaging Engineer - Intern",
-      "location": "Portage, Michigan",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Packaging-Engineer---Intern_R572717-1",
-      "posted_at": "Posted 5 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
       "company": "Stryker",
       "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
@@ -534,6 +526,36 @@
       "location": "Rome, Italy",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568592",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
+      "company": "Stryker",
+      "title": "Master Data Management Intern",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Master-Data-Management-Intern_R569618",
+      "posted_at": "Posted 20 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568593",
+      "company": "Stryker",
+      "title": "Intern Tenders, Contracts & Pricing",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Tenders--Contracts---Pricing_R568593",
+      "posted_at": "Posted 7 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
+      "company": "Stryker",
+      "title": "Advanced Operations Summer Intern",
+      "location": "Weston, Florida",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
+      "posted_at": "Posted 7 Days Ago",
       "source": "workday",
       "tags": []
     },
