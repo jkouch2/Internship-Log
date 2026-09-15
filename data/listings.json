@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:16:15.101411+00:00",
+  "generated_at": "2026-09-15T16:27:23.847795+00:00",
   "count": 70,
   "listings": [
     {
@@ -420,6 +420,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Skawina-Poland/Engineering-Intern_R573990",
+      "company": "Stryker",
+      "title": "Engineering Intern",
+      "location": "Skawina, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/Engineering-Intern_R573990",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Warsaw-Poland/HR-Administration-Intern_R568710",
       "company": "Stryker",
       "title": "HR Administration Intern",
@@ -576,16 +586,6 @@
       "location": "Salt Lake City, Utah",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768",
       "posted_at": "Posted 13 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-      "company": "Stryker",
-      "title": "Engineering Intern, Product Quality",
-      "location": "Tempe, Arizona",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-      "posted_at": "Posted 12 Days Ago",
       "source": "workday",
       "tags": []
     },
