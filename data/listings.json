@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T10:42:59.968093+00:00",
-  "count": 67,
+  "generated_at": "2026-09-18T15:58:56.149020+00:00",
+  "count": 72,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -142,6 +142,18 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004",
       "posted_at": "2026-09-01T19:58:42-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8196515",
+      "company": "Formlabs",
+      "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
+      "posted_at": "2026-09-18T11:11:06-04:00",
       "source": "greenhouse",
       "tags": [
         "hardware"
@@ -408,6 +420,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
+      "company": "Stryker",
+      "title": "HR Administration Intern",
+      "location": "Skawina, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Warsaw-Poland/HR-Administration-Intern_R568710",
       "company": "Stryker",
       "title": "HR Administration Intern",
@@ -608,6 +630,16 @@
       "tags": []
     },
     {
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
+      "company": "Amgen",
+      "title": "Undergrad Intern - Operations \u2013 Process Development (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
+      "posted_at": "Posted 21 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-dexcom-/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
       "company": "Dexcom",
       "title": "2027 US Summer Internship - Early Interest",
@@ -644,6 +676,26 @@
       "location": "Minneapolis, Minnesota, United States of America",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
+      "company": "Medtronic",
+      "title": "Clinical Technologist Intern - Cardiovascular",
+      "location": "4 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Durban-Kwz-Zulu-Natal-South-Africa/Technical-Consultant-Intern---Neurosurgery_R77965-2",
+      "company": "Medtronic",
+      "title": "Technical Consultant Intern - Neurosurgery",
+      "location": "2 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Durban-Kwz-Zulu-Natal-South-Africa/Technical-Consultant-Intern---Neurosurgery_R77965-2",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
