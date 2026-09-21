@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T12:12:47.946806+00:00",
-  "count": 69,
+  "generated_at": "2026-09-21T21:46:30.000708+00:00",
+  "count": 70,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -630,6 +630,16 @@
       "tags": []
     },
     {
+      "id": "workday-dexcom-/job/Athenry-Ireland/Facilities-Intern_JR120527-1",
+      "company": "Dexcom",
+      "title": "Facilities Intern",
+      "location": "Athenry, Ireland",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/job/Athenry-Ireland/Facilities-Intern_JR120527-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-dexcom-/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
       "company": "Dexcom",
       "title": "2027 US Summer Internship - Early Interest",
@@ -670,6 +680,16 @@
       "tags": []
     },
     {
+      "id": "workday-medtronic-/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
+      "company": "Medtronic",
+      "title": "Clinical Technologist Intern - Cardiovascular",
+      "location": "4 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-medtronic-/job/Durban-Kwz-Zulu-Natal-South-Africa/Technical-Consultant-Intern---Neurosurgery_R77965-2",
       "company": "Medtronic",
       "title": "Technical Consultant Intern - Neurosurgery",
@@ -706,16 +726,6 @@
       "location": "15 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
       "posted_at": "Posted 27 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-medtronic-/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
-      "company": "Medtronic",
-      "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
-      "location": "20 Locations",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
-      "posted_at": "Posted 25 Days Ago",
       "source": "workday",
       "tags": []
     }
