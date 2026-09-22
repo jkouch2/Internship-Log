@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:46:30.000708+00:00",
+  "generated_at": "2026-09-22T03:43:44.119494+00:00",
   "count": 70,
   "listings": [
     {
@@ -306,16 +306,6 @@
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
       "posted_at": "2026-09-05T01:21:19-04:00",
-      "source": "greenhouse",
-      "tags": []
-    },
-    {
-      "id": "greenhouse-formlabs-8174874",
-      "company": "Formlabs",
-      "title": "AI Software Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874",
-      "posted_at": "2026-09-08T14:26:26-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -726,6 +716,16 @@
       "location": "15 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
       "posted_at": "Posted 27 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
+      "company": "Medtronic",
+      "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
+      "location": "20 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
+      "posted_at": "Posted 25 Days Ago",
       "source": "workday",
       "tags": []
     }
