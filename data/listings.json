@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T11:06:36.249182+00:00",
-  "count": 70,
+  "generated_at": "2026-09-22T16:27:30.163494+00:00",
+  "count": 71,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -97,18 +97,6 @@
       "source": "greenhouse",
       "tags": [
         "hardware"
-      ]
-    },
-    {
-      "id": "greenhouse-formlabs-8188578",
-      "company": "Formlabs",
-      "title": "Embedded Software Intern (Winter/Spring 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8188578/apply/?gh_jid=8188578",
-      "posted_at": "2026-09-09T11:17:45-04:00",
-      "source": "greenhouse",
-      "tags": [
-        "embedded"
       ]
     },
     {
@@ -610,22 +598,32 @@
       "tags": []
     },
     {
-      "id": "workday-amgen-/job/US---Rhode-Island---West-Greenwich/Undergrad-Intern---Operations---West-Greenwich--RI--Summer-2027-_R-254514",
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
       "company": "Amgen",
-      "title": "Undergrad Intern - Operations \u2013 West Greenwich, RI (Summer 2027)",
-      "location": "US - Rhode Island - West Greenwich",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---Rhode-Island---West-Greenwich/Undergrad-Intern---Operations---West-Greenwich--RI--Summer-2027-_R-254514",
+      "title": "Undergrad Intern - Operations \u2013 Process Development (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
       "posted_at": "Posted 25 Days Ago",
       "source": "workday",
       "tags": []
     },
     {
-      "id": "workday-dexcom-/job/Athenry-Ireland/Facilities-Intern_JR120527-1",
-      "company": "Dexcom",
-      "title": "Facilities Intern",
-      "location": "Athenry, Ireland",
-      "url": "https://dexcom.wd1.myworkdayjobs.com/job/Athenry-Ireland/Facilities-Intern_JR120527-1",
-      "posted_at": "Posted Yesterday",
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
+      "company": "Amgen",
+      "title": "Grad Intern - Operations \u2013 Process Development (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
+      "posted_at": "Posted 25 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659",
+      "company": "Amgen",
+      "title": "Operations Graduate Program \u2013 Summer 2027 Internship",
+      "location": "6 Locations",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659",
+      "posted_at": "Posted 20 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -726,6 +724,16 @@
       "location": "20 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
       "posted_at": "Posted 26 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
+      "company": "Medtronic",
+      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention",
+      "location": "15 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
+      "posted_at": "Posted 21 Days Ago",
       "source": "workday",
       "tags": []
     }
