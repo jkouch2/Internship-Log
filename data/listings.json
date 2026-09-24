@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:15:52.260724+00:00",
+  "generated_at": "2026-09-24T16:39:08.584926+00:00",
   "count": 70,
   "listings": [
     {
@@ -408,16 +408,6 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Warsaw-Poland/HR-Administration-Intern_R568710",
-      "company": "Stryker",
-      "title": "HR Administration Intern",
-      "location": "Warsaw, Poland",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/HR-Administration-Intern_R568710",
-      "posted_at": "Posted 22 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Warsaw-Poland/Support-Analyst-Intern_R571969",
       "company": "Stryker",
       "title": "Support Analyst Intern",
@@ -724,6 +714,16 @@
       "location": "15 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
       "posted_at": "Posted 23 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--Graduate--Tech-_R78409-1",
+      "company": "Medtronic",
+      "title": "Intern: Graduate (Tech).",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--Graduate--Tech-_R78409-1",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     }
