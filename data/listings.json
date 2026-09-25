@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T11:20:41.755762+00:00",
-  "count": 69,
+  "generated_at": "2026-09-25T16:44:48.818990+00:00",
+  "count": 71,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -22,6 +22,18 @@
       "location": "Boston, Massachusetts",
       "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5022683007",
       "posted_at": "2026-04-01T08:35:30-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": "greenhouse-ginkgobioworks-5249264007",
+      "company": "Ginkgobioworks",
+      "title": "Automation Scientist Intern, RAC Operations",
+      "location": "Boston, Massachusetts",
+      "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5249264007",
+      "posted_at": "2026-09-25T11:07:41-04:00",
       "source": "greenhouse",
       "tags": [
         "automation"
@@ -674,6 +686,16 @@
       "location": "7 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
+      "company": "Medtronic",
+      "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
+      "location": "50 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
