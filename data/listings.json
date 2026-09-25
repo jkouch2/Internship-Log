@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:44:48.818990+00:00",
+  "generated_at": "2026-09-25T21:12:32.102741+00:00",
   "count": 71,
   "listings": [
     {
@@ -630,6 +630,16 @@
       "tags": []
     },
     {
+      "id": "workday-medtronic-/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R77474-2",
+      "company": "Medtronic",
+      "title": "Intern: High School",
+      "location": "Alajuela Coyol, Alajuela, Costa Rica",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R77474-2",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-medtronic-/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1",
       "company": "Medtronic",
       "title": "Engineering Intern \u2013 Summer 2027",
@@ -726,16 +736,6 @@
       "location": "15 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
       "posted_at": "Posted 24 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-medtronic-/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--Graduate--Tech-_R78409-1",
-      "company": "Medtronic",
-      "title": "Intern: Graduate (Tech).",
-      "location": "Alajuela Coyol, Alajuela, Costa Rica",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--Graduate--Tech-_R78409-1",
-      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     }
