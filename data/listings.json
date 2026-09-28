@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:08:08.073546+00:00",
+  "generated_at": "2026-09-28T22:59:50.306795+00:00",
   "count": 70,
   "listings": [
     {
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "greenhouse-formlabs-8097694",
-      "company": "Formlabs",
-      "title": "Hardware R&D Engineering Intern (Fall 2026)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
-      "posted_at": "2026-07-30T17:03:46-04:00",
-      "source": "greenhouse",
-      "tags": [
-        "hardware"
-      ]
-    },
-    {
       "id": "greenhouse-formlabs-8172226",
       "company": "Formlabs",
       "title": "Hardware R&D Engineering Intern (Winter/Spring 2027)",
@@ -153,7 +141,7 @@
       "title": "Hardware Test Engineering Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515",
-      "posted_at": "2026-09-18T11:11:06-04:00",
+      "posted_at": "2026-09-28T10:57:13-04:00",
       "source": "greenhouse",
       "tags": [
         "hardware"
@@ -345,7 +333,7 @@
       "title": "Manufacturing Engineering Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817",
-      "posted_at": "2026-09-08T14:21:55-04:00",
+      "posted_at": "2026-09-28T10:58:15-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -510,6 +498,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Rome-Italy/Intern-Events-Administrative_R573876-1",
+      "company": "Stryker",
+      "title": "Intern Events Administrative",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Events-Administrative_R573876-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
       "company": "Stryker",
       "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
@@ -600,22 +598,22 @@
       "tags": []
     },
     {
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
+      "company": "Amgen",
+      "title": "Undergrad Intern - Operations \u2013 Process Development (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-dexcom-/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
       "company": "Dexcom",
       "title": "2027 US Summer Internship - Early Interest",
       "location": "San Diego, California",
       "url": "https://dexcom.wd1.myworkdayjobs.com/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
       "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-medtronic-/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R77474-2",
-      "company": "Medtronic",
-      "title": "Intern: High School",
-      "location": "Alajuela Coyol, Alajuela, Costa Rica",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--High-School_R77474-2",
-      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
