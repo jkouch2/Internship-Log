@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T21:57:01.197011+00:00",
-  "count": 70,
+  "generated_at": "2026-10-01T04:36:57.404290+00:00",
+  "count": 71,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -69,7 +69,7 @@
       "title": "Electrical Engineer Intern, Implant Embedded Systems",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003",
-      "posted_at": "2026-09-24T21:18:21-04:00",
+      "posted_at": "2026-09-30T18:24:09-04:00",
       "source": "greenhouse",
       "tags": [
         "embedded"
@@ -163,7 +163,7 @@
       "title": "Analog and Mixed-Signal IC Design Engineer Intern ",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
-      "posted_at": "2026-09-24T21:18:21-04:00",
+      "posted_at": "2026-09-30T18:24:09-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -173,7 +173,7 @@
       "title": "Digital IC Design Engineer Intern",
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003",
-      "posted_at": "2026-09-24T21:18:21-04:00",
+      "posted_at": "2026-09-30T18:24:09-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -604,6 +604,16 @@
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-edwards-/job/Costa-Rica-Cartago-Wet-Plant/CR-Internship-Program_Req-47813",
+      "company": "Edwards",
+      "title": "Learning & Development, Internship",
+      "location": "Costa Rica-Cartago-Wet Plant",
+      "url": "https://edwards.wd5.myworkdayjobs.com/job/Costa-Rica-Cartago-Wet-Plant/CR-Internship-Program_Req-47813",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
