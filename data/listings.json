@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T12:48:32.030739+00:00",
-  "count": 71,
+  "generated_at": "2026-10-07T22:50:17.614773+00:00",
+  "count": 72,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -308,6 +308,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8263054",
+      "company": "Formlabs",
+      "title": "Global Operations Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8263054/apply/?gh_jid=8263054",
+      "posted_at": "2026-10-07T16:03:32-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8161780",
       "company": "Formlabs",
       "title": "Global Sourcing Intern (Winter/Spring 2027)",
@@ -384,6 +394,16 @@
       "location": "Budapest, Hungary",
       "url": "https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955",
       "posted_at": "2026-10-07T06:28:53-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8262987",
+      "company": "Formlabs",
+      "title": "Sourcing Program Management Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8262987/apply/?gh_jid=8262987",
+      "posted_at": "2026-10-07T16:02:51-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -723,16 +743,6 @@
       "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
       "location": "20 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
-      "company": "Medtronic",
-      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention",
-      "location": "15 Locations",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
       "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
