@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T04:59:14.991495+00:00",
-  "count": 69,
+  "generated_at": "2026-10-09T12:43:23.815800+00:00",
+  "count": 70,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -408,22 +408,12 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Skawina-Poland/Engineering-Intern_R573990",
-      "company": "Stryker",
-      "title": "Engineering Intern",
-      "location": "Skawina, Poland",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/Engineering-Intern_R573990",
-      "posted_at": "Posted 23 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Skawina-Poland/Sourcing-Intern_R573432",
       "company": "Stryker",
       "title": "Sourcing Intern",
       "location": "Skawina, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/Sourcing-Intern_R573432",
-      "posted_at": "Posted 13 Days Ago",
+      "posted_at": "Posted 14 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -433,7 +423,7 @@
       "title": "Purchasing Intern",
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Purchasing-Intern_R574722-1",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -443,7 +433,7 @@
       "title": "HR Administration Intern",
       "location": "Skawina, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
-      "posted_at": "Posted 20 Days Ago",
+      "posted_at": "Posted 21 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -533,7 +523,7 @@
       "title": "Intern Events Administrative",
       "location": "Rome, Italy",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Events-Administrative_R573876-1",
-      "posted_at": "Posted 10 Days Ago",
+      "posted_at": "Posted 11 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -543,7 +533,27 @@
       "title": "Customer Service Intern",
       "location": "Roma, Rome Via Alexandre Gustave Eiffel 13/15",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R574587",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted 3 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R575379",
+      "company": "Stryker",
+      "title": "Intern, Customer Services",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R575379",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R575381-1",
+      "company": "Stryker",
+      "title": "Intern, Customer Services",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R575381-1",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
@@ -588,22 +598,12 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-      "company": "Stryker",
-      "title": "Engineering Intern, Product Quality",
-      "location": "Tempe, Arizona",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-amgen-/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349",
       "company": "Amgen",
       "title": "Grad Intern - Operations - Engineering (Summer 2027)",
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349",
-      "posted_at": "Posted 30 Days Ago",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -613,7 +613,7 @@
       "title": "Undergrad Intern - Operations \u2013 Engineering (Summer 2027)",
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335",
-      "posted_at": "Posted 30 Days Ago",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -683,7 +683,7 @@
       "title": "Clinical Technologist Intern - Cardiovascular",
       "location": "4 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
-      "posted_at": "Posted 17 Days Ago",
+      "posted_at": "Posted 18 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -713,7 +713,17 @@
       "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
       "location": "50 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
-      "posted_at": "Posted 13 Days Ago",
+      "posted_at": "Posted 14 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
+      "company": "Medtronic",
+      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference",
+      "location": "15 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     }
