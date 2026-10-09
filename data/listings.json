@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T12:43:23.815800+00:00",
-  "count": 70,
+  "generated_at": "2026-10-09T22:22:20.724731+00:00",
+  "count": 71,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -184,6 +184,16 @@
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003",
       "posted_at": "2026-09-24T21:18:21-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-8020751003",
+      "company": "Neuralink",
+      "title": "Histopathology Intern",
+      "location": "Austin, Texas, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003",
+      "posted_at": "2026-10-09T17:31:08-04:00",
       "source": "greenhouse",
       "tags": []
     },
