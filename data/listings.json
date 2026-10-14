@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T11:21:42.811126+00:00",
-  "count": 66,
+  "generated_at": "2026-10-14T16:42:19.558021+00:00",
+  "count": 68,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -118,6 +118,18 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226",
       "posted_at": "2026-09-01T19:58:56-04:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8212683",
+      "company": "Formlabs",
+      "title": "Hardware Systems Integration Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683",
+      "posted_at": "2026-10-14T11:11:41-04:00",
       "source": "greenhouse",
       "tags": [
         "hardware"
@@ -684,6 +696,16 @@
       "location": "7 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
+      "company": "Medtronic",
+      "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
+      "location": "50 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
+      "posted_at": "Posted 19 Days Ago",
       "source": "workday",
       "tags": []
     }
