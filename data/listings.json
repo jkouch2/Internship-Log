@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T12:23:24.997250+00:00",
-  "count": 71,
+  "generated_at": "2026-10-19T22:04:22.363601+00:00",
+  "count": 69,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -410,6 +410,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8300782",
+      "company": "Formlabs",
+      "title": "Recruitment Intern",
+      "location": "Budapest, Hungary",
+      "url": "https://careers.formlabs.com/job/8300782/apply/?gh_jid=8300782",
+      "posted_at": "2026-10-19T10:28:37-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8260955",
       "company": "Formlabs",
       "title": "Software Engineer Intern (Full stack)",
@@ -570,6 +580,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
+      "company": "Stryker",
+      "title": "HR Transformation Intern",
+      "location": "Alcobendas, Spain",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
       "company": "Stryker",
       "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
@@ -585,46 +605,6 @@
       "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
       "location": "Arlington, Tennessee",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
-      "company": "Stryker",
-      "title": "Advanced Operations Summer Intern",
-      "location": "Weston, Florida",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349",
-      "company": "Amgen",
-      "title": "Grad Intern - Operations - Engineering (Summer 2027)",
-      "location": "US - California - Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335",
-      "company": "Amgen",
-      "title": "Undergrad Intern - Operations \u2013 Engineering (Summer 2027)",
-      "location": "US - California - Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424",
-      "company": "Amgen",
-      "title": "Undergrad intern - U.S. Value & Access (Summer 2027)",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424",
       "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
