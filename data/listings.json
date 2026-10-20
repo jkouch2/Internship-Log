@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:02:00.405396+00:00",
+  "generated_at": "2026-10-20T16:28:08.503580+00:00",
   "count": 68,
   "listings": [
     {
@@ -450,16 +450,6 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Warsaw-Poland/Purchasing-Intern_R574722-1",
-      "company": "Stryker",
-      "title": "Purchasing Intern",
-      "location": "Warsaw, Poland",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Purchasing-Intern_R574722-1",
-      "posted_at": "Posted 14 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
       "company": "Stryker",
       "title": "HR Administration Intern",
@@ -620,6 +610,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768",
+      "company": "Stryker",
+      "title": "R&D Operations Intern",
+      "location": "Salt Lake City, Utah",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-amgen-/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515",
       "company": "Amgen",
       "title": "Undergrad Intern - Operations \u2013 Cambridge, MA (Summer 2027)",
@@ -660,16 +660,6 @@
       "tags": []
     },
     {
-      "id": "workday-medtronic-/job/Istanbul-Istanbul-Trkiye/Healthcare-Consulting-Intern_R79520-1",
-      "company": "Medtronic",
-      "title": "Healthcare Consulting Intern",
-      "location": "Istanbul, Istanbul, T\u00fcrkiye",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Istanbul-Istanbul-Trkiye/Healthcare-Consulting-Intern_R79520-1",
-      "posted_at": "Posted Yesterday",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-medtronic-/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
       "company": "Medtronic",
       "title": "Clinical Technologist Intern - Cardiovascular",
@@ -705,6 +695,16 @@
       "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
       "location": "20 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
+      "company": "Medtronic",
+      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention",
+      "location": "15 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
       "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
