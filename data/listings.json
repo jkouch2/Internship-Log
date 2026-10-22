@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:18:22.342812+00:00",
+  "generated_at": "2026-10-22T16:46:02.425935+00:00",
   "count": 68,
   "listings": [
     {
@@ -550,16 +550,6 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R575379",
-      "company": "Stryker",
-      "title": "Intern, Customer Services",
-      "location": "Rome, Italy",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R575379",
-      "posted_at": "Posted 13 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
       "company": "Stryker",
       "title": "HR Transformation Intern",
@@ -616,6 +606,16 @@
       "location": "Tempe, Arizona",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Amsterdam-Netherlands/Intern-Compliance-HR-Operations_R575648",
+      "company": "Stryker",
+      "title": "Intern Compliance HR Operations",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/Intern-Compliance-HR-Operations_R575648",
+      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     },
