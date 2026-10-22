@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T16:46:02.425935+00:00",
-  "count": 68,
+  "generated_at": "2026-10-22T21:16:25.796197+00:00",
+  "count": 69,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -366,6 +366,16 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8161817/apply/?gh_jid=8161817",
       "posted_at": "2026-09-28T10:58:15-04:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8256004",
+      "company": "Formlabs",
+      "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
+      "posted_at": "2026-10-22T14:53:32-04:00",
       "source": "greenhouse",
       "tags": []
     },
