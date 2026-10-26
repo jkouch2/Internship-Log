@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T12:24:56.442791+00:00",
-  "count": 68,
+  "generated_at": "2026-10-26T22:22:37.271236+00:00",
+  "count": 70,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -620,6 +620,16 @@
       "tags": []
     },
     {
+      "id": "workday-amgen-/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
+      "company": "Amgen",
+      "title": "Grad Intern - Biostatistics (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-amgen-/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515",
       "company": "Amgen",
       "title": "Undergrad Intern - Operations \u2013 Cambridge, MA (Summer 2027)",
@@ -646,6 +656,16 @@
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/US---Ohio---New-Albany/Grad-Intern---Operations---New-Albany--OH--Summer-2027-_R-258687",
+      "company": "Amgen",
+      "title": "Grad Intern - Operations - New Albany, OH (Summer 2027)",
+      "location": "US - Ohio - New Albany",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---Ohio---New-Albany/Grad-Intern---Operations---New-Albany--OH--Summer-2027-_R-258687",
+      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
