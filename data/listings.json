@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T12:16:36.793468+00:00",
-  "count": 68,
+  "generated_at": "2026-10-28T22:17:25.442045+00:00",
+  "count": 72,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -160,6 +160,18 @@
       ]
     },
     {
+      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Automation--Reliability---Facilities-Engineering--IOPS-_R51831",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Automation, Reliability & Facilities Engineering (IOPS)",
+      "location": "RENSSELAER",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Automation--Reliability---Facilities-Engineering--IOPS-_R51831",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
       "id": "greenhouse-recursionpharmaceuticals-7540026",
       "company": "Recursionpharmaceuticals",
       "title": "Interested in an internship?",
@@ -205,7 +217,7 @@
       "title": "Histopathology Intern",
       "location": "Austin, Texas, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003",
-      "posted_at": "2026-10-09T17:31:08-04:00",
+      "posted_at": "2026-10-28T17:07:15-04:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -610,6 +622,46 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
+      "company": "Stryker",
+      "title": "Post Market Quality Engineering Intern",
+      "location": "Redmond, Washington",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Quality-Assurance---Compliance---Quality-Systems--IOPS-_R52018-1",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Quality Assurance \u2013 Compliance & Quality Systems (IOPS)",
+      "location": "RENSSELAER",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Quality-Assurance---Compliance---Quality-Systems--IOPS-_R52018-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Process-Validation---Technology-Transfer--IOPS-_R51830",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Process Validation & Technology Transfer (IOPS)",
+      "location": "RENSSELAER",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Process-Validation---Technology-Transfer--IOPS-_R51830",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Combination-Products---Device-Development--IOPS-_R51827-1",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Combination Products & Device Development (IOPS)",
+      "location": "RENSSELAER",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Combination-Products---Device-Development--IOPS-_R51827-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-amgen-/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
       "company": "Amgen",
       "title": "Grad Intern - Biostatistics (Summer 2027)",
@@ -695,16 +747,6 @@
       "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
       "location": "20 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
-      "company": "Medtronic",
-      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention",
-      "location": "15 Locations",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
       "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
