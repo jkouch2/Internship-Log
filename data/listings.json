@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T04:44:39.995620+00:00",
-  "count": 72,
+  "generated_at": "2026-10-29T12:26:06.646909+00:00",
+  "count": 71,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -165,7 +165,7 @@
       "title": "2027 Summer Intern Automation, Reliability & Facilities Engineering (IOPS)",
       "location": "RENSSELAER",
       "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Automation--Reliability---Facilities-Engineering--IOPS-_R51831",
-      "posted_at": "Posted Today",
+      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": [
         "automation"
@@ -547,7 +547,7 @@
       "title": "Intern Events Administrative",
       "location": "Rome, Italy",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern-Events-Administrative_R573876-1",
-      "posted_at": "Posted 30 Days Ago",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -557,7 +557,17 @@
       "title": "HR Transformation Intern",
       "location": "Alcobendas, Spain",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
-      "posted_at": "Posted 9 Days Ago",
+      "posted_at": "Posted 10 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R576187-1",
+      "company": "Stryker",
+      "title": "Intern, Customer Services",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R576187-1",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
@@ -617,17 +627,7 @@
       "title": "Intern Compliance HR Operations",
       "location": "Amsterdam, Netherlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/Intern-Compliance-HR-Operations_R575648",
-      "posted_at": "Posted 7 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-      "company": "Stryker",
-      "title": "Post Market Quality Engineering Intern",
-      "location": "Redmond, Washington",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted 8 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -637,7 +637,7 @@
       "title": "2027 Summer Intern Quality Assurance \u2013 Compliance & Quality Systems (IOPS)",
       "location": "RENSSELAER",
       "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Quality-Assurance---Compliance---Quality-Systems--IOPS-_R52018-1",
-      "posted_at": "Posted Today",
+      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     },
@@ -647,17 +647,7 @@
       "title": "2027 Summer Intern Process Validation & Technology Transfer (IOPS)",
       "location": "RENSSELAER",
       "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Process-Validation---Technology-Transfer--IOPS-_R51830",
-      "posted_at": "Posted Today",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Combination-Products---Device-Development--IOPS-_R51827-1",
-      "company": "Regeneron",
-      "title": "2027 Summer Intern Combination Products & Device Development (IOPS)",
-      "location": "RENSSELAER",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Combination-Products---Device-Development--IOPS-_R51827-1",
-      "posted_at": "Posted Today",
+      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     },
@@ -667,7 +657,7 @@
       "title": "Grad Intern - Biostatistics (Summer 2027)",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -727,7 +717,7 @@
       "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
       "location": "50 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -737,7 +727,7 @@
       "title": "EHS Intern.",
       "location": "Alajuela Coyol, Alajuela, Costa Rica",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alajuela-Coyol-Alajuela-Costa-Rica/EHS-Intern_R79611-2",
-      "posted_at": "Posted 16 Days Ago",
+      "posted_at": "Posted 17 Days Ago",
       "source": "workday",
       "tags": []
     },
