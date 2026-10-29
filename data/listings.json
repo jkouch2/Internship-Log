@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T12:26:06.646909+00:00",
-  "count": 71,
+  "generated_at": "2026-10-29T22:30:49.278873+00:00",
+  "count": 69,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -160,15 +160,15 @@
       ]
     },
     {
-      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Automation--Reliability---Facilities-Engineering--IOPS-_R51831",
-      "company": "Regeneron",
-      "title": "2027 Summer Intern Automation, Reliability & Facilities Engineering (IOPS)",
-      "location": "RENSSELAER",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Automation--Reliability---Facilities-Engineering--IOPS-_R51831",
-      "posted_at": "Posted Yesterday",
+      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097",
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Bioanalytical Research Associate (Summer 2027)",
+      "location": "US - California - Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": [
-        "automation"
+        "research"
       ]
     },
     {
@@ -632,26 +632,6 @@
       "tags": []
     },
     {
-      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Quality-Assurance---Compliance---Quality-Systems--IOPS-_R52018-1",
-      "company": "Regeneron",
-      "title": "2027 Summer Intern Quality Assurance \u2013 Compliance & Quality Systems (IOPS)",
-      "location": "RENSSELAER",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Quality-Assurance---Compliance---Quality-Systems--IOPS-_R52018-1",
-      "posted_at": "Posted Yesterday",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-regeneron-/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Process-Validation---Technology-Transfer--IOPS-_R51830",
-      "company": "Regeneron",
-      "title": "2027 Summer Intern Process Validation & Technology Transfer (IOPS)",
-      "location": "RENSSELAER",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Process-Validation---Technology-Transfer--IOPS-_R51830",
-      "posted_at": "Posted Yesterday",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-amgen-/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
       "company": "Amgen",
       "title": "Grad Intern - Biostatistics (Summer 2027)",
@@ -712,22 +692,22 @@
       "tags": []
     },
     {
-      "id": "workday-medtronic-/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
-      "company": "Medtronic",
-      "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
-      "location": "50 Locations",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
-      "posted_at": "Posted 2 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-medtronic-/job/Alajuela-Coyol-Alajuela-Costa-Rica/EHS-Intern_R79611-2",
       "company": "Medtronic",
       "title": "EHS Intern.",
       "location": "Alajuela Coyol, Alajuela, Costa Rica",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alajuela-Coyol-Alajuela-Costa-Rica/EHS-Intern_R79611-2",
       "posted_at": "Posted 17 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
+      "company": "Medtronic",
+      "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
+      "location": "50 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
+      "posted_at": "Posted 2 Days Ago",
       "source": "workday",
       "tags": []
     },
