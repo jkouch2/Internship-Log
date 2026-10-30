@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T12:17:19.945403+00:00",
-  "count": 69,
+  "generated_at": "2026-10-30T21:59:57.384994+00:00",
+  "count": 70,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -462,6 +462,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Amsterdam-Netherlands/Tax-Intern_R575941",
+      "company": "Stryker",
+      "title": "Tax Intern",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/Tax-Intern_R575941",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
       "company": "Stryker",
       "title": "HR Administration Intern",
@@ -622,16 +632,6 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Amsterdam-Netherlands/Intern-Compliance-HR-Operations_R575648",
-      "company": "Stryker",
-      "title": "Intern Compliance HR Operations",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/Intern-Compliance-HR-Operations_R575648",
-      "posted_at": "Posted 9 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-amgen-/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
       "company": "Amgen",
       "title": "Grad Intern - Biostatistics (Summer 2027)",
@@ -668,6 +668,16 @@
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084",
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Global Program Management (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
