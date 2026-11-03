@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:57:47.226557+00:00",
+  "generated_at": "2026-11-03T00:38:43.418960+00:00",
   "count": 71,
   "listings": [
     {
@@ -642,6 +642,26 @@
       "tags": []
     },
     {
+      "id": "workday-amgen-/job/United-States---Remote/Undergrad-Intern---Amgen-Foundation--Summer-2027-_R-260402",
+      "company": "Amgen",
+      "title": "Undergrad Intern \u2013 Amgen Foundation (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Undergrad-Intern---Amgen-Foundation--Summer-2027-_R-260402",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871",
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 Amgen Library (Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-amgen-/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515",
       "company": "Amgen",
       "title": "Undergrad Intern - Operations \u2013 Cambridge, MA (Summer 2027)",
@@ -668,26 +688,6 @@
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
       "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084",
-      "company": "Amgen",
-      "title": "Undergrad Intern \u2013 Global Program Management (Summer 2027)",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Undergrad-Intern---Global-Program-Management--Summer-2027-_R-260084",
-      "posted_at": "Posted 3 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/United-States---Remote/Undergrad-Intern---R-D-Knowledge-Management--Summer-2027-_R-259905",
-      "company": "Amgen",
-      "title": "Undergrad Intern \u2013 R&D Knowledge Management (Summer 2027)",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Undergrad-Intern---R-D-Knowledge-Management--Summer-2027-_R-259905",
-      "posted_at": "Posted 6 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -722,22 +722,22 @@
       "tags": []
     },
     {
-      "id": "workday-medtronic-/job/Alajuela-Coyol-Alajuela-Costa-Rica/EHS-Intern_R79611-2",
-      "company": "Medtronic",
-      "title": "EHS Intern.",
-      "location": "Alajuela Coyol, Alajuela, Costa Rica",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Alajuela-Coyol-Alajuela-Costa-Rica/EHS-Intern_R79611-2",
-      "posted_at": "Posted 21 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-medtronic-/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
       "company": "Medtronic",
       "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
       "location": "20 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-medtronic-/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
+      "company": "Medtronic",
+      "title": "Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention",
+      "location": "15 Locations",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     }
