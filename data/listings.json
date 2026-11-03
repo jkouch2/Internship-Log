@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T13:45:24.392793+00:00",
-  "count": 70,
+  "generated_at": "2026-11-03T22:58:14.693170+00:00",
+  "count": 71,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -157,18 +157,6 @@
       "source": "greenhouse",
       "tags": [
         "hardware"
-      ]
-    },
-    {
-      "id": "workday-amgen-/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097",
-      "company": "Amgen",
-      "title": "Grad Intern \u2013 Bioanalytical Research Associate (Summer 2027)",
-      "location": "US - California - Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097",
-      "posted_at": "Posted 5 Days Ago",
-      "source": "workday",
-      "tags": [
-        "research"
       ]
     },
     {
@@ -432,6 +420,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8337242",
+      "company": "Formlabs",
+      "title": "Print Production Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8337242/apply/?gh_jid=8337242",
+      "posted_at": "2026-11-03T09:48:20-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8300782",
       "company": "Formlabs",
       "title": "Recruitment Intern",
@@ -658,6 +656,16 @@
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871",
       "posted_at": "Posted Yesterday",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/Canada---Mississauga/Medical-Operations-Intern---PHMI-Graduate-Diploma_R-260743",
+      "company": "Amgen",
+      "title": "Medical Operations Intern - PHMI Graduate Diploma",
+      "location": "Canada - Mississauga",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/Canada---Mississauga/Medical-Operations-Intern---PHMI-Graduate-Diploma_R-260743",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
