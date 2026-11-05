@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:18:08.223586+00:00",
+  "generated_at": "2026-11-05T05:32:10.060667+00:00",
   "count": 71,
   "listings": [
     {
@@ -702,6 +702,16 @@
       "tags": []
     },
     {
+      "id": "workday-amgen-/job/US---California---South-San-Francisco/Grad-Intern---R-D-Translational-Immunology--Summer-2027-_R-260620",
+      "company": "Amgen",
+      "title": "Grad Intern \u2013 R&D Translational Immunology (Summer 2027)",
+      "location": "US - California - South San Francisco",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Grad-Intern---R-D-Translational-Immunology--Summer-2027-_R-260620",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-dexcom-/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
       "company": "Dexcom",
       "title": "2027 US Summer Internship - Early Interest",
@@ -728,16 +738,6 @@
       "location": "50 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
       "posted_at": "Posted 8 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-medtronic-/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
-      "company": "Medtronic",
-      "title": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference\u202f",
-      "location": "20 Locations",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1",
-      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     }
