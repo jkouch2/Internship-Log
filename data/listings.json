@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T14:28:11.052469+00:00",
-  "count": 71,
+  "generated_at": "2026-11-10T22:55:12.733493+00:00",
+  "count": 82,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -112,12 +112,36 @@
       ]
     },
     {
+      "id": "greenhouse-formlabs-8172394",
+      "company": "Formlabs",
+      "title": "Hardware R&D Engineering Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394",
+      "posted_at": "2026-11-10T12:23:29-05:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
       "id": "greenhouse-formlabs-8172226",
       "company": "Formlabs",
       "title": "Hardware R&D Engineering Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226",
       "posted_at": "2026-11-06T15:46:35-05:00",
+      "source": "greenhouse",
+      "tags": [
+        "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8186619",
+      "company": "Formlabs",
+      "title": "Hardware Reliability Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8186619/apply/?gh_jid=8186619",
+      "posted_at": "2026-11-10T12:26:46-05:00",
       "source": "greenhouse",
       "tags": [
         "hardware"
@@ -332,6 +356,26 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8212703",
+      "company": "Formlabs",
+      "title": "Build Team Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8212703/apply/?gh_jid=8212703",
+      "posted_at": "2026-11-10T11:42:09-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8148251",
+      "company": "Formlabs",
+      "title": "Electrical Engineering Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8148251/apply/?gh_jid=8148251",
+      "posted_at": "2026-11-10T12:22:10-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8148283",
       "company": "Formlabs",
       "title": "Electrical Engineering Intern (Winter/Spring 2027)",
@@ -348,6 +392,16 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8263054/apply/?gh_jid=8263054",
       "posted_at": "2026-11-06T15:46:35-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8161800",
+      "company": "Formlabs",
+      "title": "Global Sourcing Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8161800/apply/?gh_jid=8161800",
+      "posted_at": "2026-11-10T15:20:02-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -372,6 +426,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8186604",
+      "company": "Formlabs",
+      "title": "Manufacturing Engineering Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8186604/apply/?gh_jid=8186604",
+      "posted_at": "2026-11-10T11:05:47-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8161817",
       "company": "Formlabs",
       "title": "Manufacturing Engineering Intern (Winter/Spring 2027)",
@@ -392,12 +456,32 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8212692",
+      "company": "Formlabs",
+      "title": "Materials Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8212692/apply/?gh_jid=8212692",
+      "posted_at": "2026-11-10T12:25:37-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8199092",
       "company": "Formlabs",
       "title": "Materials Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8199092/apply/?gh_jid=8199092",
       "posted_at": "2026-11-06T15:46:35-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8199928",
+      "company": "Formlabs",
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8199928/apply/?gh_jid=8199928",
+      "posted_at": "2026-11-10T12:22:47-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -412,12 +496,42 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8212694",
+      "company": "Formlabs",
+      "title": "PhD Intern - Materials Science (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8212694/apply/?gh_jid=8212694",
+      "posted_at": "2026-11-10T12:25:46-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8201476",
+      "company": "Formlabs",
+      "title": "Print Optimization Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8201476/apply/?gh_jid=8201476",
+      "posted_at": "2026-11-10T12:25:13-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8172256",
       "company": "Formlabs",
       "title": "Print Optimization Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8172256/apply/?gh_jid=8172256",
       "posted_at": "2026-11-06T15:46:35-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8201420",
+      "company": "Formlabs",
+      "title": "Print Process Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8201420/apply/?gh_jid=8201420",
+      "posted_at": "2026-11-10T12:24:05-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -448,6 +562,16 @@
       "location": "Budapest, Hungary",
       "url": "https://careers.formlabs.com/job/8300782/apply/?gh_jid=8300782",
       "posted_at": "2026-11-06T15:46:35-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8360209",
+      "company": "Formlabs",
+      "title": "Social Media Engineering Intern (Winter/Spring 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8360209/apply/?gh_jid=8360209",
+      "posted_at": "2026-11-10T11:52:09-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -558,16 +682,6 @@
       "location": "Alcobendas, Spain",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
       "posted_at": "Posted 22 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Rome-Italy/Intern--Customer-Services_R576187-1",
-      "company": "Stryker",
-      "title": "Intern, Customer Services",
-      "location": "Rome, Italy",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Intern--Customer-Services_R576187-1",
-      "posted_at": "Posted 12 Days Ago",
       "source": "workday",
       "tags": []
     },
