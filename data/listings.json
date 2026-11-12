@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T13:42:37.319360+00:00",
-  "count": 81,
+  "generated_at": "2026-11-12T00:09:08.953158+00:00",
+  "count": 84,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -21,7 +21,7 @@
       "title": "Automation Scientist Graduate Intern, RAC Operations",
       "location": "Boston, Massachusetts",
       "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5249264007",
-      "posted_at": "2026-09-30T10:57:47-04:00",
+      "posted_at": "2026-11-11T09:59:00-05:00",
       "source": "greenhouse",
       "tags": [
         "automation"
@@ -33,7 +33,7 @@
       "title": "Automation Scientist Intern, RAC Operations",
       "location": "Boston, Massachusetts",
       "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5022683007",
-      "posted_at": "2026-04-01T08:35:30-04:00",
+      "posted_at": "2026-11-11T09:57:57-05:00",
       "source": "greenhouse",
       "tags": [
         "automation"
@@ -346,6 +346,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8374598",
+      "company": "Formlabs",
+      "title": "2027 (Summer) - Manufacturing - Manufacturing Test Software Intern",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598",
+      "posted_at": "2026-11-11T10:40:36-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8212703",
       "company": "Formlabs",
       "title": "Build Team Intern (Summer 2027)",
@@ -372,6 +382,16 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283",
       "posted_at": "2026-11-06T15:46:35-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-formlabs-8379159",
+      "company": "Formlabs",
+      "title": "FP&A Intern",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8379159/apply/?gh_jid=8379159",
+      "posted_at": "2026-11-11T17:07:19-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -732,6 +752,16 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R576530",
       "posted_at": "Posted 7 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
+      "company": "Stryker",
+      "title": "Post Market Quality Engineering Intern",
+      "location": "Redmond, Washington",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
