@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T15:01:53.451802+00:00",
-  "count": 82,
+  "generated_at": "2026-11-17T01:41:02.064982+00:00",
+  "count": 85,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -744,6 +744,36 @@
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
       "posted_at": "Posted 4 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Engineering--Design----Construction_R53155-1",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Engineering, Design, & Construction",
+      "location": "TARRYTOWN",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Engineering--Design----Construction_R53155-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Workplace Strategy & Planning Analytics",
+      "location": "TARRYTOWN",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Environment, Health & Safety Training & Analytics",
+      "location": "TARRYTOWN",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
