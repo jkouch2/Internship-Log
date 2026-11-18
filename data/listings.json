@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:37:48.784770+00:00",
+  "generated_at": "2026-11-18T00:38:58.392472+00:00",
   "count": 86,
   "listings": [
     {
@@ -201,18 +201,6 @@
       "title": "Grad Intern - Computational Chemistry (summer 2027)",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261449",
-      "posted_at": "Posted 5 Days Ago",
-      "source": "workday",
-      "tags": [
-        "computational"
-      ]
-    },
-    {
-      "id": "workday-amgen-/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261445",
-      "company": "Amgen",
-      "title": "Grad Intern \u2013 Computational Chemistry\u00a0(summer 2027)",
-      "location": "United States - Remote",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261445",
       "posted_at": "Posted 5 Days Ago",
       "source": "workday",
       "tags": [
@@ -610,6 +598,16 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
+      "company": "Stryker",
+      "title": "HR Administration Intern",
+      "location": "Skawina, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728",
       "company": "Stryker",
       "title": "Mechanical Engineering Intern",
@@ -755,7 +753,7 @@
       "title": "Intern, Professional Affairs Specialist",
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
-      "posted_at": "Posted 5 Days Ago",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
@@ -775,16 +773,6 @@
       "title": "2027 Summer Intern Workplace Strategy & Planning Analytics",
       "location": "TARRYTOWN",
       "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1",
-      "posted_at": "Posted Yesterday",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-regeneron-/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2",
-      "company": "Regeneron",
-      "title": "2027 Summer Intern Environment, Health & Safety Training & Analytics",
-      "location": "TARRYTOWN",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2",
       "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
@@ -826,6 +814,16 @@
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
       "posted_at": "Posted 22 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-amgen-/job/US---California---South-San-Francisco/Grad-Intern---Inflammation--Summer-2027-_R-261878",
+      "company": "Amgen",
+      "title": "Grad Intern - Inflammation (Summer 2027)",
+      "location": "US - California - South San Francisco",
+      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Grad-Intern---Inflammation--Summer-2027-_R-261878",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
