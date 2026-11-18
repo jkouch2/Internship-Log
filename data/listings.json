@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T15:14:39.629208+00:00",
-  "count": 83,
+  "generated_at": "2026-11-18T23:58:01.009559+00:00",
+  "count": 84,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -588,6 +588,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8395549",
+      "company": "Formlabs",
+      "title": "Video Content Creator Intern (Summer 2027)",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8395549/apply/?gh_jid=8395549",
+      "posted_at": "2026-11-18T17:04:21-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Amsterdam-Netherlands/Tax-Intern_R575941",
       "company": "Stryker",
       "title": "Tax Intern",
@@ -668,16 +678,6 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Fremont-California/R-D-Intern_R572862",
-      "company": "Stryker",
-      "title": "R&D Intern",
-      "location": "Fremont, California",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Fremont-California/R-D-Intern_R572862",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
       "company": "Stryker",
       "title": "HR Transformation Intern",
@@ -744,6 +744,16 @@
       "location": "Amsterdam, Netherlands",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R576530",
       "posted_at": "Posted 14 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
+      "company": "Stryker",
+      "title": "Intern, Professional Affairs Specialist",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
+      "posted_at": "Posted Yesterday",
       "source": "workday",
       "tags": []
     },
