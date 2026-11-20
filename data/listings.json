@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T06:03:37.410821+00:00",
-  "count": 86,
+  "generated_at": "2026-11-20T19:41:19.772671+00:00",
+  "count": 76,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -201,7 +201,7 @@
       "title": "Grad Intern - Pathology Lab",
       "location": "US - California - South San Francisco",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Grad-Intern---Pathology-Lab_R-260467",
-      "posted_at": "Posted 10 Days Ago",
+      "posted_at": "Posted 11 Days Ago",
       "source": "workday",
       "tags": [
         "lab"
@@ -598,52 +598,12 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Amsterdam-Netherlands/Tax-Intern_R575941",
-      "company": "Stryker",
-      "title": "Tax Intern",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/Tax-Intern_R575941",
-      "posted_at": "Posted 20 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
       "company": "Stryker",
       "title": "HR Administration Intern",
       "location": "Skawina, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
-      "posted_at": "Posted 2 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728",
-      "company": "Stryker",
-      "title": "Mechanical Engineering Intern",
-      "location": "Redmond, Washington",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
-      "company": "Stryker",
-      "title": "Manufacturing Engineering Intern",
-      "location": "Redmond, Washington",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830",
-      "company": "Stryker",
-      "title": "Packaging Engineering Intern",
-      "location": "Tempe, Arizona",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -658,62 +618,12 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768",
-      "company": "Stryker",
-      "title": "R&D Operations Intern",
-      "location": "Salt Lake City, Utah",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-      "company": "Stryker",
-      "title": "Engineering Intern, Product Quality",
-      "location": "Tempe, Arizona",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R576530",
-      "company": "Stryker",
-      "title": "HR Intern (Leaves Administration)",
-      "location": "Amsterdam, Netherlands",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Amsterdam-Netherlands/HR-Intern--Leaves-Administration-_R576530",
-      "posted_at": "Posted 15 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
       "company": "Stryker",
       "title": "Intern, Professional Affairs Specialist",
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
-      "posted_at": "Posted 2 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-      "company": "Stryker",
-      "title": "Post Market Quality Engineering Intern",
-      "location": "Redmond, Washington",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Salt-Lake-City-Utah/XMLNAME-2027-Summer-Intern---R-D-Process---Technology-Development_R572905",
-      "company": "Stryker",
-      "title": "2027 Summer Intern - R&D Process & Technology Development",
-      "location": "Salt Lake City, Utah",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Salt-Lake-City-Utah/XMLNAME-2027-Summer-Intern---R-D-Process---Technology-Development_R572905",
-      "posted_at": "Posted 30+ Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -728,52 +638,52 @@
       "tags": []
     },
     {
-      "id": "workday-regeneron-/job/Dublin/Intern--Global-Patient-Safety-Science_R53181",
-      "company": "Regeneron",
-      "title": "Intern, Global Patient Safety Science",
-      "location": "Dublin",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/Dublin/Intern--Global-Patient-Safety-Science_R53181",
-      "posted_at": "Posted Today",
+      "id": "workday-stryker-/job/Tempe-Arizona/Summer-2027-Internship---Regulatory-Affairs---Arizona_R572939",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Regulatory Affairs - Arizona",
+      "location": "Tempe, Arizona",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Summer-2027-Internship---Regulatory-Affairs---Arizona_R572939",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
     {
-      "id": "workday-regeneron-/job/Dublin/Intern--Regulatory-Affairs_R53079",
-      "company": "Regeneron",
-      "title": "Intern, Regulatory Affairs",
-      "location": "Dublin",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/Dublin/Intern--Regulatory-Affairs_R53079",
-      "posted_at": "Posted Today",
+      "id": "workday-stryker-/job/Fremont-California/Summer-2027-Internship---Regulatory-Affairs---California_R572897",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Regulatory Affairs - California",
+      "location": "Fremont, California",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Fremont-California/Summer-2027-Internship---Regulatory-Affairs---California_R572897",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
     {
-      "id": "workday-regeneron-/job/Dublin/Intern--Tax-Compliance-and-Reporting_R53047",
-      "company": "Regeneron",
-      "title": "Intern, Tax Compliance and Reporting",
-      "location": "Dublin",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/Dublin/Intern--Tax-Compliance-and-Reporting_R53047",
-      "posted_at": "Posted Today",
+      "id": "workday-stryker-/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Statistical Programming - California",
+      "location": "Irvine, California",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
     {
-      "id": "workday-regeneron-/job/Dublin/Intern--Global-Development-Quality_R53005",
-      "company": "Regeneron",
-      "title": "Intern, Global Development Quality",
-      "location": "Dublin",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/Dublin/Intern--Global-Development-Quality_R53005",
-      "posted_at": "Posted Today",
+      "id": "workday-stryker-/job/Portage-Michigan/Summer-2027-Internship---Clinical-Affairs---Michigan_R572868",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Clinical Affairs - Michigan",
+      "location": "Portage, Michigan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Summer-2027-Internship---Clinical-Affairs---Michigan_R572868",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
     {
-      "id": "workday-regeneron-/job/Dublin/HR-and-People-Analytics-Tech-Intern_R52961",
-      "company": "Regeneron",
-      "title": "Intern, HR Technology and Analytics",
-      "location": "Dublin",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/Dublin/HR-and-People-Analytics-Tech-Intern_R52961",
-      "posted_at": "Posted Today",
+      "id": "workday-stryker-/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - Market Development - Michigan",
+      "location": "Portage, Michigan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -783,7 +693,7 @@
       "title": "Data & Analytics Intern",
       "location": "Netherlands - Breda",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Netherlands---Breda/Data---Analytics-Intern_R-261001",
-      "posted_at": "Posted 14 Days Ago",
+      "posted_at": "Posted 15 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -793,7 +703,7 @@
       "title": "Contracts & Pricing Operations Intern",
       "location": "Netherlands - Breda",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Netherlands---Breda/Global-Contracts---Pricing-Operations-Intern_R-260999",
-      "posted_at": "Posted 14 Days Ago",
+      "posted_at": "Posted 15 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -803,7 +713,7 @@
       "title": "Global Transportation Excellence Intern",
       "location": "Netherlands - Breda",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Netherlands---Breda/Global-Transportation-Excellence-Intern_R-261004",
-      "posted_at": "Posted 14 Days Ago",
+      "posted_at": "Posted 15 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -813,7 +723,7 @@
       "title": "Grad Intern - Biostatistics (Summer 2027)",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820",
-      "posted_at": "Posted 24 Days Ago",
+      "posted_at": "Posted 25 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -823,7 +733,7 @@
       "title": "Grad Intern - Inflammation (Summer 2027)",
       "location": "US - California - South San Francisco",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Grad-Intern---Inflammation--Summer-2027-_R-261878",
-      "posted_at": "Posted 2 Days Ago",
+      "posted_at": "Posted 3 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -833,7 +743,7 @@
       "title": "Undergrad Intern \u2013 Amgen Foundation (Summer 2027)",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Undergrad-Intern---Amgen-Foundation--Summer-2027-_R-260402",
-      "posted_at": "Posted 17 Days Ago",
+      "posted_at": "Posted 18 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -843,7 +753,7 @@
       "title": "Grad Intern \u2013 Amgen Library (Summer 2027)",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871",
-      "posted_at": "Posted 17 Days Ago",
+      "posted_at": "Posted 18 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -853,17 +763,7 @@
       "title": "Undergrad Clinical Immunology Intern (Summer 2027)",
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Clinical-Immunology-Intern--Summer-2027-_R-259640",
-      "posted_at": "Posted 14 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-amgen-/job/US---California---South-San-Francisco/Translational-Sciences-undergrad-intern--Summer-2027-_R-260532",
-      "company": "Amgen",
-      "title": "Translational Sciences undergrad intern (Summer 2027)",
-      "location": "US - California - South San Francisco",
-      "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Translational-Sciences-undergrad-intern--Summer-2027-_R-260532",
-      "posted_at": "Posted 13 Days Ago",
+      "posted_at": "Posted 15 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -883,7 +783,7 @@
       "title": "Clinical Technologist Intern - Cardiovascular",
       "location": "2 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -893,7 +793,7 @@
       "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
       "location": "50 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
-      "posted_at": "Posted 23 Days Ago",
+      "posted_at": "Posted 24 Days Ago",
       "source": "workday",
       "tags": []
     }
