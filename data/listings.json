@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T20:04:06.919812+00:00",
-  "count": 88,
+  "generated_at": "2026-11-20T06:03:37.410821+00:00",
+  "count": 86,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -109,6 +109,18 @@
       "source": "greenhouse",
       "tags": [
         "hardware"
+      ]
+    },
+    {
+      "id": "greenhouse-formlabs-8400855",
+      "company": "Formlabs",
+      "title": "2027 (Summer) API & Automation Intern",
+      "location": "Somerville, MA",
+      "url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855",
+      "posted_at": "2026-11-19T19:34:20-05:00",
+      "source": "greenhouse",
+      "tags": [
+        "automation"
       ]
     },
     {
@@ -616,41 +628,11 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886",
-      "company": "Stryker",
-      "title": "Quality Engineering Intern",
-      "location": "Flower Mound, Texas",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-stryker-/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
       "company": "Stryker",
       "title": "Manufacturing Engineering Intern",
       "location": "Redmond, Washington",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922",
-      "company": "Stryker",
-      "title": "Manufacturing Engineering Intern",
-      "location": "Cary, Illinois",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
-      "company": "Stryker",
-      "title": "Mechanical Engineering Intern",
-      "location": "Massachusetts, Virtual Address",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
       "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
@@ -671,36 +653,6 @@
       "title": "HR Transformation Intern",
       "location": "Alcobendas, Spain",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
-      "company": "Stryker",
-      "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
-      "location": "Arlington, Tennessee",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
-      "company": "Stryker",
-      "title": "Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
-      "location": "Arlington, Tennessee",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
-      "company": "Stryker",
-      "title": "Advanced Operations Summer Intern",
-      "location": "Weston, Florida",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
       "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
@@ -742,6 +694,36 @@
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
       "posted_at": "Posted 2 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
+      "company": "Stryker",
+      "title": "Post Market Quality Engineering Intern",
+      "location": "Redmond, Washington",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Salt-Lake-City-Utah/XMLNAME-2027-Summer-Intern---R-D-Process---Technology-Development_R572905",
+      "company": "Stryker",
+      "title": "2027 Summer Intern - R&D Process & Technology Development",
+      "location": "Salt Lake City, Utah",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Salt-Lake-City-Utah/XMLNAME-2027-Summer-Intern---R-D-Process---Technology-Development_R572905",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833",
+      "company": "Stryker",
+      "title": "Summer 2027 Intern - Industrial Design, User Experience - Michigan",
+      "location": "Portage, Michigan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Product-Interaction-Design-Intern---Portage--MI_R572833",
+      "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
     },
