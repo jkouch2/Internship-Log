@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T19:41:19.772671+00:00",
-  "count": 76,
+  "generated_at": "2026-11-21T05:56:40.941807+00:00",
+  "count": 78,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -117,7 +117,7 @@
       "title": "2027 (Summer) API & Automation Intern",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855",
-      "posted_at": "2026-11-19T19:34:20-05:00",
+      "posted_at": "2026-11-20T15:26:13-05:00",
       "source": "greenhouse",
       "tags": [
         "automation"
@@ -354,16 +354,6 @@
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
       "posted_at": "2026-11-05T21:48:14-05:00",
-      "source": "greenhouse",
-      "tags": []
-    },
-    {
-      "id": "greenhouse-formlabs-8374598",
-      "company": "Formlabs",
-      "title": "2027 (Summer) - Manufacturing - Manufacturing Test Software Intern",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598",
-      "posted_at": "2026-11-12T17:21:52-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -678,12 +668,42 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
+      "id": "workday-stryker-/job/Warsaw-Poland/Discover-Internship-with-Romanian---English-Language_R577071",
       "company": "Stryker",
-      "title": "Summer 2027 Internship - Market Development - Michigan",
-      "location": "Portage, Michigan",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
+      "title": "Discover Internship with Romanian & English Language",
+      "location": "Warsaw, Poland",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Discover-Internship-with-Romanian---English-Language_R577071",
+      "posted_at": "Posted 4 Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Fremont-California/Summer-2027-Internship---RA-QA---Quality-Assurance---California_R572628",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - RA/QA - Quality Assurance - California",
+      "location": "2 Locations",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Fremont-California/Summer-2027-Internship---RA-QA---Quality-Assurance---California_R572628",
       "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1",
+      "company": "Stryker",
+      "title": "Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan",
+      "location": "Portage, Michigan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Summer-2027-Internship---RA-QA---Regulatory-Affairs---Michigan_R572590-1",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Portfolio-Strategy---Intelligence_R53282",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Portfolio Strategy & Intelligence",
+      "location": "TARRYTOWN",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Portfolio-Strategy---Intelligence_R53282",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
