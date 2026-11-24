@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T08:47:58.240086+00:00",
-  "count": 75,
+  "generated_at": "2026-11-24T21:59:25.829110+00:00",
+  "count": 68,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -225,7 +225,7 @@
       "title": "Interested in an internship?",
       "location": "Remote Opportunity - United States; Salt Lake City, Utah",
       "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7540026",
-      "posted_at": "2026-07-08T13:36:36-04:00",
+      "posted_at": "2026-11-24T12:12:00-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -386,16 +386,6 @@
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8148251/apply/?gh_jid=8148251",
       "posted_at": "2026-11-12T17:21:52-05:00",
-      "source": "greenhouse",
-      "tags": []
-    },
-    {
-      "id": "greenhouse-formlabs-8379159",
-      "company": "Formlabs",
-      "title": "FP&A Intern (Summer 2027)",
-      "location": "Somerville, MA",
-      "url": "https://careers.formlabs.com/job/8379159/apply/?gh_jid=8379159",
-      "posted_at": "2026-11-13T09:38:51-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -600,41 +590,11 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Tempe-Arizona/Summer-2027-Internship---Regulatory-Affairs---Arizona_R572939",
+      "id": "workday-stryker-/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
       "company": "Stryker",
-      "title": "Summer 2027 Internship - Regulatory Affairs - Arizona",
-      "location": "Tempe, Arizona",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Tempe-Arizona/Summer-2027-Internship---Regulatory-Affairs---Arizona_R572939",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Fremont-California/Summer-2027-Internship---Regulatory-Affairs---California_R572897",
-      "company": "Stryker",
-      "title": "Summer 2027 Internship - Regulatory Affairs - California",
-      "location": "Fremont, California",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Fremont-California/Summer-2027-Internship---Regulatory-Affairs---California_R572897",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769",
-      "company": "Stryker",
-      "title": "Summer 2027 Internship - Statistical Programming - California",
-      "location": "Irvine, California",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Portage-Michigan/Summer-2027-Internship---Clinical-Affairs---Michigan_R572868",
-      "company": "Stryker",
-      "title": "Summer 2027 Internship - Clinical Affairs - Michigan",
+      "title": "Summer 2027 Internship - Market Development - Michigan",
       "location": "Portage, Michigan",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Summer-2027-Internship---Clinical-Affairs---Michigan_R572868",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
       "posted_at": "Posted 30+ Days Ago",
       "source": "workday",
       "tags": []
@@ -650,32 +610,12 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Fremont-California/Summer-2027-Internship---RA-QA---Quality-Assurance---California_R572628",
-      "company": "Stryker",
-      "title": "Summer 2027 Internship - RA/QA - Quality Assurance - California",
-      "location": "2 Locations",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Fremont-California/Summer-2027-Internship---RA-QA---Quality-Assurance---California_R572628",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
       "id": "workday-regeneron-/job/Dublin/Intern--Clinical-Trial-Management_R53241",
       "company": "Regeneron",
       "title": "Intern, Clinical Trial Management",
       "location": "Dublin",
       "url": "https://regeneron.wd1.myworkdayjobs.com/job/Dublin/Intern--Clinical-Trial-Management_R53241",
       "posted_at": "Posted Yesterday",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-regeneron-/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Portfolio-Strategy---Intelligence_R53282",
-      "company": "Regeneron",
-      "title": "2027 Summer Intern Portfolio Strategy & Intelligence",
-      "location": "TARRYTOWN",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Portfolio-Strategy---Intelligence_R53282",
-      "posted_at": "Posted 4 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -776,16 +716,6 @@
       "location": "2 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
       "posted_at": "Posted 6 Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-medtronic-/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
-      "company": "Medtronic",
-      "title": "Associate Clinical Experience (ACE) Intern \u2013 Summer 2027",
-      "location": "50 Locations",
-      "url": "https://medtronic.wd1.myworkdayjobs.com/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1",
-      "posted_at": "Posted 28 Days Ago",
       "source": "workday",
       "tags": []
     }
