@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T07:23:02.378610+00:00",
-  "count": 69,
+  "generated_at": "2026-11-25T21:12:16.411344+00:00",
+  "count": 76,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -201,7 +201,7 @@
       "title": "Internship Biomechanical Simulation & Medical Device Development \u2013 6 Months | Start Spring 2027",
       "location": "Sch\u00f6nkirchen, Germany",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Schnkirchen-Germany/Internship-Biomechanical-Simulation---Medical-Device-Development---6-Months---Start-Spring-2027_R572023",
-      "posted_at": "Posted Yesterday",
+      "posted_at": "Posted 2 Days Ago",
       "source": "workday",
       "tags": [
         "medical device"
@@ -213,7 +213,7 @@
       "title": "Grad Intern - Pathology Lab",
       "location": "US - California - South San Francisco",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Grad-Intern---Pathology-Lab_R-260467",
-      "posted_at": "Posted 15 Days Ago",
+      "posted_at": "Posted 16 Days Ago",
       "source": "workday",
       "tags": [
         "lab"
@@ -400,6 +400,16 @@
       "tags": []
     },
     {
+      "id": "greenhouse-formlabs-8416844",
+      "company": "Formlabs",
+      "title": "Events Logistics Intern (EMEA)",
+      "location": "Budapest, Hungary",
+      "url": "https://careers.formlabs.com/job/8416844/apply/?gh_jid=8416844",
+      "posted_at": "2026-11-25T11:50:25-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
       "id": "greenhouse-formlabs-8161800",
       "company": "Formlabs",
       "title": "Global Sourcing Intern (Summer 2027)",
@@ -505,7 +515,7 @@
       "title": "Print Process Intern (Summer 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8201420/apply/?gh_jid=8201420",
-      "posted_at": "2026-11-12T17:21:52-05:00",
+      "posted_at": "2026-11-25T11:15:00-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -515,7 +525,7 @@
       "title": "Print Process Intern (Winter/Spring 2027)",
       "location": "Somerville, MA",
       "url": "https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269",
-      "posted_at": "2026-11-12T17:21:52-05:00",
+      "posted_at": "2026-11-25T11:15:00-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -540,12 +550,12 @@
       "tags": []
     },
     {
-      "id": "greenhouse-formlabs-8260955",
+      "id": "greenhouse-formlabs-8416639",
       "company": "Formlabs",
       "title": "Software Engineer Intern (Full stack)",
       "location": "Budapest, Hungary",
-      "url": "https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955",
-      "posted_at": "2026-11-12T17:21:52-05:00",
+      "url": "https://careers.formlabs.com/job/8416639/apply/?gh_jid=8416639",
+      "posted_at": "2026-11-25T05:33:51-05:00",
       "source": "greenhouse",
       "tags": []
     },
@@ -565,7 +575,7 @@
       "title": "HR Administration Intern",
       "location": "Skawina, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Skawina-Poland/HR-Administration-Intern_R568706-1",
-      "posted_at": "Posted 7 Days Ago",
+      "posted_at": "Posted 8 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -580,12 +590,52 @@
       "tags": []
     },
     {
+      "id": "workday-stryker-/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R578456",
+      "company": "Stryker",
+      "title": "Customer Service Intern",
+      "location": "Roma, Rome Via Alexandre Gustave Eiffel 13/15",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R578456",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Rome-Italy/Customer-Service-Intern_R578542",
+      "company": "Stryker",
+      "title": "Customer Service Intern",
+      "location": "Rome, Italy",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Rome-Italy/Customer-Service-Intern_R578542",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R578454",
+      "company": "Stryker",
+      "title": "Customer Service Intern",
+      "location": "Roma, Rome Via Alexandre Gustave Eiffel 13/15",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R578454",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-stryker-/job/Portage-Michigan/Intern--Mechanical-Engineering_R572896",
+      "company": "Stryker",
+      "title": "Intern, Mechanical Engineering",
+      "location": "Portage, Michigan",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Intern--Mechanical-Engineering_R572896",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
       "id": "workday-stryker-/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
       "company": "Stryker",
       "title": "Intern, Professional Affairs Specialist",
       "location": "Warsaw, Poland",
       "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Intern--Professional-Affairs-Specialist_R576481",
-      "posted_at": "Posted 7 Days Ago",
+      "posted_at": "Posted 8 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -600,32 +650,52 @@
       "tags": []
     },
     {
-      "id": "workday-stryker-/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
-      "company": "Stryker",
-      "title": "Summer 2027 Internship - Market Development - Michigan",
-      "location": "Portage, Michigan",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
-      "posted_at": "Posted 30+ Days Ago",
-      "source": "workday",
-      "tags": []
-    },
-    {
-      "id": "workday-stryker-/job/Warsaw-Poland/Discover-Internship-with-Romanian---English-Language_R577071",
+      "id": "workday-stryker-/job/Masovian-Warsaw-Rondo-Daszynskiego-1/Discover-Internship-with-Romanian---English-Language_R577071",
       "company": "Stryker",
       "title": "Discover Internship with Romanian & English Language",
-      "location": "Warsaw, Poland",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Warsaw-Poland/Discover-Internship-with-Romanian---English-Language_R577071",
-      "posted_at": "Posted 8 Days Ago",
+      "location": "Masovian, Warsaw Rondo Daszynskiego 1",
+      "url": "https://stryker.wd1.myworkdayjobs.com/job/Masovian-Warsaw-Rondo-Daszynskiego-1/Discover-Internship-with-Romanian---English-Language_R577071",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
     {
-      "id": "workday-regeneron-/job/Dublin/Intern--Clinical-Trial-Management_R53241",
+      "id": "workday-regeneron-/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Transactions-Law-Group_R53314-1",
       "company": "Regeneron",
-      "title": "Intern, Clinical Trial Management",
-      "location": "Dublin",
-      "url": "https://regeneron.wd1.myworkdayjobs.com/job/Dublin/Intern--Clinical-Trial-Management_R53241",
-      "posted_at": "Posted Yesterday",
+      "title": "2027 Summer Intern Transactions Law Group",
+      "location": "SLEEPY HOLLOW",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Transactions-Law-Group_R53314-1",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Data-Privacy_R53313",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Data Privacy",
+      "location": "SLEEPY HOLLOW",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Data-Privacy_R53313",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Corporate-Governance---Securities_R53311",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Corporate Governance & Securities",
+      "location": "SLEEPY HOLLOW",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Corporate-Governance---Securities_R53311",
+      "posted_at": "Posted Today",
+      "source": "workday",
+      "tags": []
+    },
+    {
+      "id": "workday-regeneron-/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Intellectual-Property_R53310-1",
+      "company": "Regeneron",
+      "title": "2027 Summer Intern Intellectual Property",
+      "location": "TARRYTOWN",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Intellectual-Property_R53310-1",
+      "posted_at": "Posted Today",
       "source": "workday",
       "tags": []
     },
@@ -635,7 +705,7 @@
       "title": "Data & Analytics Intern",
       "location": "Netherlands - Breda",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Netherlands---Breda/Data---Analytics-Intern_R-261001",
-      "posted_at": "Posted 19 Days Ago",
+      "posted_at": "Posted 20 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -645,7 +715,7 @@
       "title": "Contracts & Pricing Operations Intern",
       "location": "Netherlands - Breda",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Netherlands---Breda/Global-Contracts---Pricing-Operations-Intern_R-260999",
-      "posted_at": "Posted 19 Days Ago",
+      "posted_at": "Posted 20 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -655,7 +725,7 @@
       "title": "Global Transportation Excellence Intern",
       "location": "Netherlands - Breda",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/Netherlands---Breda/Global-Transportation-Excellence-Intern_R-261004",
-      "posted_at": "Posted 19 Days Ago",
+      "posted_at": "Posted 20 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -665,7 +735,7 @@
       "title": "Grad Intern - Inflammation (Summer 2027)",
       "location": "US - California - South San Francisco",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Grad-Intern---Inflammation--Summer-2027-_R-261878",
-      "posted_at": "Posted 7 Days Ago",
+      "posted_at": "Posted 8 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -675,7 +745,7 @@
       "title": "Undergrad Intern \u2013 Amgen Foundation (Summer 2027)",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Undergrad-Intern---Amgen-Foundation--Summer-2027-_R-260402",
-      "posted_at": "Posted 22 Days Ago",
+      "posted_at": "Posted 23 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -685,7 +755,7 @@
       "title": "Grad Intern \u2013 Amgen Library (Summer 2027)",
       "location": "United States - Remote",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/United-States---Remote/Grad-Intern---Amgen-Library--Summer-2027-_R-259871",
-      "posted_at": "Posted 22 Days Ago",
+      "posted_at": "Posted 23 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -695,7 +765,7 @@
       "title": "Undergrad Clinical Immunology Intern (Summer 2027)",
       "location": "US - California - Thousand Oaks",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---Thousand-Oaks/Undergrad-Clinical-Immunology-Intern--Summer-2027-_R-259640",
-      "posted_at": "Posted 19 Days Ago",
+      "posted_at": "Posted 20 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -705,7 +775,7 @@
       "title": "Translational Sciences undergrad intern (Summer 2027)",
       "location": "US - California - South San Francisco",
       "url": "https://amgen.wd1.myworkdayjobs.com/job/US---California---South-San-Francisco/Translational-Sciences-undergrad-intern--Summer-2027-_R-260532",
-      "posted_at": "Posted 18 Days Ago",
+      "posted_at": "Posted 19 Days Ago",
       "source": "workday",
       "tags": []
     },
@@ -725,7 +795,7 @@
       "title": "Clinical Technologist Intern - Cardiovascular",
       "location": "2 Locations",
       "url": "https://medtronic.wd1.myworkdayjobs.com/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958",
-      "posted_at": "Posted 6 Days Ago",
+      "posted_at": "Posted 7 Days Ago",
       "source": "workday",
       "tags": []
     }
