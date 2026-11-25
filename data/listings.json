@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T21:59:25.829110+00:00",
-  "count": 68,
+  "generated_at": "2026-11-25T07:23:02.378610+00:00",
+  "count": 69,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -256,6 +256,16 @@
       "location": "South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003",
       "posted_at": "2026-11-05T21:48:14-05:00",
+      "source": "greenhouse",
+      "tags": []
+    },
+    {
+      "id": "greenhouse-neuralink-8197808003",
+      "company": "Neuralink",
+      "title": "Electrical Test Engineer Intern",
+      "location": "South San Francisco, California, United States",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003",
+      "posted_at": "2026-11-24T18:53:58-05:00",
       "source": "greenhouse",
       "tags": []
     },
