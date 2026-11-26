@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T21:12:16.411344+00:00",
-  "count": 76,
+  "generated_at": "2026-11-26T07:11:58.135349+00:00",
+  "count": 75,
   "listings": [
     {
       "id": "greenhouse-xairatherapeutics-5225658007",
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "id": "workday-stryker-/job/Schnkirchen-Germany/Internship-Biomechanical-Simulation---Medical-Device-Development---6-Months---Start-Spring-2027_R572023",
-      "company": "Stryker",
-      "title": "Internship Biomechanical Simulation & Medical Device Development \u2013 6 Months | Start Spring 2027",
-      "location": "Sch\u00f6nkirchen, Germany",
-      "url": "https://stryker.wd1.myworkdayjobs.com/job/Schnkirchen-Germany/Internship-Biomechanical-Simulation---Medical-Device-Development---6-Months---Start-Spring-2027_R572023",
-      "posted_at": "Posted 2 Days Ago",
-      "source": "workday",
-      "tags": [
-        "medical device"
-      ]
-    },
-    {
       "id": "workday-amgen-/job/US---California---South-San-Francisco/Grad-Intern---Pathology-Lab_R-260467",
       "company": "Amgen",
       "title": "Grad Intern - Pathology Lab",
@@ -283,9 +271,9 @@
       "id": "greenhouse-neuralink-6594261003",
       "company": "Neuralink",
       "title": "Machine Learning Engineer Intern",
-      "location": "South San Francisco, California, United States",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
-      "posted_at": "2026-11-05T21:48:14-05:00",
+      "posted_at": "2026-11-25T17:45:43-05:00",
       "source": "greenhouse",
       "tags": []
     },
